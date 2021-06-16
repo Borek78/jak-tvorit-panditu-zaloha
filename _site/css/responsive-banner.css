@@ -1,0 +1,71 @@
+@media only screen and (max-width: 600px) {
+  #napis {
+    font-size: 27px;
+    background-size: 27px 27px;
+    background-position: 18px 7px;
+    width: 300px;
+  }
+
+  #text-napisu {
+    margin-left: 55px;
+  }
+
+  #hlavicka {
+    padding-top: 43px;
+    height: 87px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #napis {
+    font-size: 25px;
+    background-size: 25px 25px;
+    background-position: 18px 5px;
+    width: 280px;
+  }
+
+  #text-napisu {
+    margin-left: 50px;
+  }
+
+  #hlavicka {
+    padding-top: 43px;
+    height: 83px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #napis {
+    font-size: 21px;
+    background-size: 21px 21px;
+    background-position: 18px 5px;
+    width: 240px;
+  }
+
+  #text-napisu {
+    margin-left: 45px;
+  }
+
+  #hlavicka {
+    padding-top: 43px;
+    height: 75px;
+  }
+}
+
+@media only screen and (max-width: 325px) {
+  #napis {
+    font-size: 18px;
+    background-size: 18px 18px;
+    background-position: 12px 4px;
+    width: 200px;
+  }
+
+  #text-napisu {
+    margin-left: 36px;
+  }
+
+  #hlavicka {
+    padding-top: 43px;
+    height: 72px;
+  }
+}

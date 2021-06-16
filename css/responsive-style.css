@@ -1,0 +1,130 @@
+/*add and remove classes*/
+
+a.blue:hover {
+  border-bottom: 3px solid rgb(255, 208, 78);
+}
+
+.menu-is-visible {
+  top: 0;
+}
+
+.menu-is-not-visible {
+  top: -40px;
+}
+
+.show-mobile-menu {
+  height: 150px;
+}
+
+.hide-mobile-menu {
+  height: 0px;
+}
+
+.show-icon-menu {
+  display: none;
+}
+
+.hide-icon-menu {
+  display: none;
+}
+
+.show-icon-close {
+  display: none;
+}
+
+.hide-icon-close {
+  display: none;
+}
+
+/*define mobile menu*/
+
+.mobile-menu-item:hover {
+  background-color: rgb(44, 44, 44);
+}
+
+.mobile-menu-item:first-child {
+  margin-top: 10px;
+}
+
+.mobile-menu-item {
+  display: block;
+  float: left;
+  padding-left: 30px;
+  font-size: 16px;
+  color: white;
+
+  width: 100%;
+  padding-bottom: 13px;
+  padding-top: 13px;
+}
+
+#mobile-menu {
+  width: 100%;
+  background-color: #c38303;
+  position: fixed;
+  overflow: hidden;
+  transition-property: height;
+  transition-duration: 0.5s;
+}
+
+.material-icons.material-icons-style {
+  color: white;
+  font-size: 30px;
+  float: right;
+  margin-top: 4px;
+}
+
+/*this what happens when screen width < 600*/
+
+@media only screen and (max-width: 600px) {
+  #napis {
+    width: 60vw;
+  }
+
+  .show-icon-menu {
+    display: block;
+  }
+
+  .show-icon-close {
+    display: block;
+  }
+
+  #menu .menu-item {
+    display: none;
+  }
+
+  #inside-menu {
+    width: auto;
+  }
+}
+
+/*show text without horizontal margins when width < 600*/
+@media only screen and (max-width: 600px) {
+  #page {
+    width: auto;
+  }
+
+  #text-in-page {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  #text-in-page {
+    margin-right: 10px;
+    margin-left: 10px;
+    width: auto;
+  }
+}
+
+/*mobile - web under construction*/
+@media only screen and (max-width: 600px) {
+  #mobile-web-under-construction {
+    display: block;
+  }
+
+  #web-under-construction {
+    display: none;
+  }
+}

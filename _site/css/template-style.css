@@ -1,0 +1,133 @@
+#mobile-web-under-construction {
+  width: 120px;
+  height: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 9px;
+  border-radius: 5px;
+  text-align: center;
+  border: 1px solid orange;
+  font-size: 12px;
+  display: none;
+}
+
+#web-under-construction {
+  width: 200px;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  margin-top: 5px;
+  border-radius: 5px;
+  text-align: center;
+  border: 3px solid orange;
+}
+
+/*menu in the header*/
+a.menu-item:hover {
+  border-bottom: 3px solid white;
+}
+
+a.menu-item {
+  color: white;
+  font-size: 14px;
+  display: block;
+  padding-left: 10px;
+  padding-right: 10px;
+  float: right;
+  height: 23px;
+  padding-top: 13px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+a#uplne-levy:hover {
+  border: 1px dashed white;
+  color: white;
+  background-color: #b7542d;
+}
+
+a#uplne-levy {
+  float: left;
+  border: 1px dashed #fad24ec4;
+  margin-top: 9px;
+  border-radius: 25px;
+  color: hsla(45, 100%, 10%, 0.959);
+  font-weight: bold;
+  font-size: 16px;
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#inside-menu {
+  width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#menu {
+  height: 40px;
+  background-color: #c38303;
+  font-family: "Raleway", sans-serif;
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  transition-property: top;
+  transition-duration: 0.5s;
+}
+
+/*banner in the header*/
+#hlavicka {
+  padding-top: 50px;
+  background-color: #fad24ec4;
+  height: 100px;
+  outline-top: 2px dashed blue;
+  margin-bottom: 0px;
+  margin-top: 40px;
+}
+
+#napis {
+  color: #463600;
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  width: 360px;
+  order: 2px solid orange;
+  font-size: 30px;
+  border-radius: 25px;
+  font-family: arial;
+  font-weight: bold;
+
+  line-height: 1.5;
+  order: 1px solid blue;
+
+  background-image: url(/assets/pandita-logo-image-100.png);
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+  background-position: 34px 7px;
+}
+
+#text-napisu {
+  order: 1px solid green;
+  margin-left: 75px;
+  width: 251px;
+}
+
+/* body and footer */
+body {
+  background-color: #efefef;
+  margin: 0px;
+  background-color: #fdd243d3;
+}
+
+footer {
+  height: 40px;
+  order: 1px solid blue;
+  background-color: #b37800;
+  margin-top: 0px;
+}
