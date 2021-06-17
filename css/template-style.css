@@ -106,15 +106,15 @@ a#uplne-levy {
   line-height: 1.5;
   order: 1px solid blue;
 
-  background-image: url(assets/pandita-logo-image-100.PNG);
+  /*background-image: url(assets/pandita-logo-image-100.PNG);
   background-image: url(/assets/pandita-logo-image-100.PNG);
   background-image: url(./assets/pandita-logo-image-100.PNG);
-  background-image: url(../assets/pandita-logo-image-100.PNG);
+  background-image: url(../assets/pandita-logo-image-100.PNG);*/
   
   background-image: url(assets/pandita-logo-image-100.png);
-  background-image: url(/assets/pandita-logo-image-100.png);
+  /*background-image: url(/assets/pandita-logo-image-100.png);
   background-image: url(./assets/pandita-logo-image-100.png);
-  background-image: url(../assets/pandita-logo-image-100.png);
+  background-image: url(../assets/pandita-logo-image-100.png);*/
   
   background-size: 30px 30px;
   background-repeat: no-repeat;
