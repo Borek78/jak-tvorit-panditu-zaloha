@@ -104,9 +104,9 @@ a#uplne-levy {
   font-weight: bold;
 
   line-height: 1.5;
-  border: 1px solid red;
+  order: 1px solid red;
 
-  background-image: url(/assets/pandita-logo-image-100.png);  
+  background-image: url(../assets/pandita-logo-image-100.png);  
   
   background-size: 30px 30px;
   background-repeat: no-repeat;
