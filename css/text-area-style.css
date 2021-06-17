@@ -27,7 +27,7 @@ h3 {
   background-image: url(./assets/pandita-logo-image-100.PNG);
   background-image: url(../assets/pandita-logo-image-100.PNG);*/
   
-  background-image: url({{site.baseurl}}/assets/pandita-logo-image-100.png);
+  background-image: url(https://borek78.github.io/jak-tvorit-panditu/assets/pandita-logo-image-100.png);
   /*background-image: url(/assets/pandita-logo-image-100.png);
   background-image: url(./assets/pandita-logo-image-100.png);
   background-image: url(../assets/pandita-logo-image-100.png);*/
