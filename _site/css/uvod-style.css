@@ -1,3 +1,11 @@
+/*intro-content*/
+
+#intro-content {
+  width:80px
+}
+
+
+/*jiné barvy odkazu na uvod.html */
 #page div.no-link-underline a {
   border-bottom: 0px dashed #499b00;
 }
