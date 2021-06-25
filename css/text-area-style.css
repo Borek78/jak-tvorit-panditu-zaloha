@@ -21,9 +21,9 @@ h3 {
   color: #b7542d;
   font-weight: bold;
   padding-top: 15px;
-  
+
   background-image: url(../assets/pipali-stredne-zluty.png);
-  
+
   background-repeat: no-repeat;
   background-size: 15px 20px;
   padding-left: 28px;
@@ -81,4 +81,5 @@ h4 {
   background-color: #efefef;
   padding-top: 40px;
   padding-bottom: 40px;
+  font-family: "Raleway", sans-serif;
 }

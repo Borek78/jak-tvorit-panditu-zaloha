@@ -1,9 +1,23 @@
 /*intro-content*/
 
 #intro-content {
-  width:80px
-}
+  width: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #b37800;
+  border-radius: 5px;
+  color: #b7542d;
 
+  background-color: rgba(255, 248, 155, 0.664);
+  text-align: center;
+  float: right;
+  margin-left: 460px;
+  margin-bottom: 20px;
+  line-height: 1;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  font-weight: 500;
+}
 
 /*jiné barvy odkazu na uvod.html */
 #page div.no-link-underline a {
