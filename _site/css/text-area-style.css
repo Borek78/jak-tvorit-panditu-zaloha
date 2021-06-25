@@ -18,16 +18,17 @@ span#mili-priznivci {
 
 h3 {
   margin-bottom: 5px;
-  padding-bottom: px;
   color: #b7542d;
   font-weight: bold;
   padding-top: 15px;
-  background-image: url(/assets/pipali-stredne-zluty.png);
+  
+  background-image: url(../assets/pipali-stredne-zluty.png);
+  
   background-repeat: no-repeat;
   background-size: 15px 20px;
-  adding-left: 28px;
+  padding-left: 28px;
   background-position: 0px 16px;
-  order: 1px solid blue;
+  order: 1px solid green;
   font-size: 17px;
   padding-left: 21px;
 }
