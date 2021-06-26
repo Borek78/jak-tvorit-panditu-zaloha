@@ -1,4 +1,19 @@
-I"k(<div id="intro-content">obsah</div>
+I"�*<div id="intro-content-button-wrapper"><div id="intro-content-button">Obsah:</div></div>
+
+<div class="buddhist-flag">
+<img id="buddhist-flag" src="../assets/buddhist-flag.png" alt="buddhist-flag" />
+<div id="buddhisticka-vlajka-napis">Buddhistická vlajka</div>
+</div>
+
+<div id="intro-content-menu">
+    
+    <div class="intro-content-menu-item">PANDITA CZ</div>
+    <div class="intro-content-menu-item">Povolení</div>
+    <div class="intro-content-menu-item">Důležitá otázka</div>
+    <div class="intro-content-menu-item">Dhamma depozitář</div>
+    <div class="intro-content-menu-item">Autorský zákon</div>
+    <div class="intro-content-menu-item">Kontakt</div>
+</div>
 
 <div id="mili-priznivci"> Milí příznivci Buddhova učení,</div>
 

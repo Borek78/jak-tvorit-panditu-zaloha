@@ -20,34 +20,37 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 </head>
-<body><div id="menu" class="menu-is-visible">
-  <div id="inside-menu">
-    <a class="menu-item">ENG</a>
-    <a class="menu-item">BLOG</a>
-    <a class="menu-item">ÚVOD</a>
-    <a class="menu-item">NOVINKY</a>
+<body><header>
 
+<section id="menu" class="menu-is-visible">
+
+  <nav id="inside-menu">
+    
+    <a class="menu-item" href="blog.html">BLOG</a>
+    <a class="menu-item" href="index.html">ÚVOD</a>
+     
     <div id="icon-close" class="hide-icon-close">
       <span class="material-icons material-icons-style">close</span>
     </div>
+
     <div id="icon-menu" class="show-icon-menu">
       <span class="material-icons material-icons-style">menu</span>
     </div>
 
     <a id="uplne-levy">Pandita</a>
-  </div>
-  <a id="uplne-levy">Pandita</a>
+  </nav>
+  
 
   <!-- Mobile menu - start -->
-  <div id="mobile-menu" class="hide-mobile-menu">
+  <nav id="mobile-menu" class="hide-mobile-menu">
     <a class="mobile-menu-item">Novinky</a> <br /><br />
     <a class="mobile-menu-item">Úvod</a><br /><br />
     <a class="mobile-menu-item">Blog</a><br /><br />
-  </div>
+  </nav>
   <!-- Mobile menu - end -->
-</div>
+</section>
 
-<div id="hlavicka">
+<section id="banner">
   <div id="napis">
     <div id="text-napisu">Jak tvořit panditu</div>
   </div>
@@ -57,9 +60,11 @@
   </div>
 
   <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-</div>
+</section>
+
+</header>
 <!--Content--> 
-    <div id="content">
+    <main id="main">
       <div id="page">
         <div id="text-in-page">
      
@@ -72,8 +77,9 @@
        </p>
        </div>
       </div>
-     </div><footer></footer>
+    </main><footer></footer>
 <script src="./js/script.js"></script>
+   <script src="./js/script-pages.js"></script>
   </body>
 
 </html>
