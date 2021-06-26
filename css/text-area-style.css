@@ -10,10 +10,11 @@
   padding-bottom: 100px;
 }
 
-span#mili-priznivci {
+#mili-priznivci {
   margin-bottom: -40px;
   order: 1px solid blue;
   display: block;
+  margin-top: 20px;
 }
 
 h3 {

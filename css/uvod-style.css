@@ -1,33 +1,26 @@
-/*buddhist-flag*/
-buddhisticka-vlajka-napis {
-  color: chocolate;
-  margin-left: 25px;
-  font-weight: bold;
-  margin-top: 20px;
+.div-height {
+  height: 20px;
 }
 
-buddhist-flag {
-  width: 200px;
-  height: 133px;
-  border-radius: 10px;
+.show-intro-content-menu {
+  height: 212px;
+  display: block;
 }
 
-buddhist-flag {
-  float: left;
-
-  margin-left: 30px;
-  margin-top: 13px;
-  margin-right: 50px;
-  margin-bottom: 100px;
+.hide-intro-content-menu {
+  height: 0px;
+  display: none;
 }
 
 /*intro-content*/
+
 .intro-content-menu-item:hover {
   background-color: #923a17;
 }
 
 .intro-content-menu-item {
   padding-left: 20px;
+  line-height: 1.8;
 }
 
 #intro-content-button-wrapper {
@@ -40,23 +33,19 @@ buddhist-flag {
   background-color: #b7542d;
   margin-top: 10px;
   border-radius: 10px;
-  padding-top: 20px;
-  padding-bottom: 20px;
   color: white;
   font-family: "Raleway", sans-serif;
   margin-bottom: 50px;
+  transition: height 1s;
 }
 
 #intro-content-button:hover {
   color: white;
   background-color: #b7542d;
-  cursor: pointer;
 }
 
 #intro-content-button {
   width: 80px;
-  margin-left: auto;
-  margin-right: auto;
   border: 1px solid #b7542d;
   border-radius: 5px;
   color: #b7542d;
@@ -69,6 +58,7 @@ buddhist-flag {
   padding-top: 2px;
   font-weight: 500;
   font-size: 15px;
+  cursor: pointer;
 }
 
 /*jiné barvy odkazu na uvod.html */

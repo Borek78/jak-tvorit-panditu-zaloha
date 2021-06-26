@@ -7,15 +7,11 @@ function changeColor() {
   if (currentScrollPos > 180) {
     menuItems[0].classList.add("blue");
     menuItems[1].classList.add("blue");
-    menuItems[2].classList.add("blue");
-    menuItems[3].classList.add("blue");
   }
 
   if (currentScrollPos < 180) {
     menuItems[0].classList.remove("blue");
     menuItems[1].classList.remove("blue");
-    menuItems[2].classList.remove("blue");
-    menuItems[3].classList.remove("blue");
   }
 }
 
