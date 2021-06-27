@@ -71,7 +71,7 @@ window.onscroll = function () {
   let currentScrollPos = window.pageYOffset;
 
   //when you scroll down hide the menu but not at the top of the page
-  if (prevScrollPos < currentScrollPos && currentScrollPos > 300) {
+  if (prevScrollPos < currentScrollPos && currentScrollPos > 200) {
     const menu = document.querySelector("#menu");
     const mobileMenu = document.querySelector("#mobile-menu");
     const iconClose = document.querySelector("#icon-close");
@@ -98,7 +98,7 @@ window.onscroll = function () {
   }
 
   //when you go up && scroll_change is > 299
-  if (prevScrollPos > currentScrollPos && scroll_change > 299) {
+  if (prevScrollPos > currentScrollPos && scroll_change > 199) {
     const menu = document.querySelector("#menu");
 
     menu.classList.add("menu-is-visible");

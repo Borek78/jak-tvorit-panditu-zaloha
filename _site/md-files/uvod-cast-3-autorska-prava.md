@@ -1,4 +1,6 @@
+<div id="anchor-autorsky-zakon" markdown="1">
 ### AUTORSKÝ ZÁKON
+</div>
 
 Na DGD jsem již nahrál titulky, které jsem vytvořil ke třem videím Ajahna Brahma. Možná bude v budoucnoti chtít moje titulky použít někdo další, a to na jiném YouTube kanálu nebo jiné platformě pro sdílení videí. <br><br>
 
@@ -16,7 +18,9 @@ Jednu z těchto CC licencí jsem si vybral a za podmínek této licence jsem zve
 
 Použití [licence CC Uveďte původ 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs) má pro sdílení informací o Buddhově učení mnoho výhod. Více najdete v článku [Význam CC licencí pro předávání Buddhova učení](), který je k dispozici na stránce BLOG.
 
+<div id="anchor-kontakt" markdown="1" >
 ### KONTAKT
+</div>
 
 Tento web i celý projekt PANDITA CZ je na samém počátku.
 Stále je velmi nejisté, jestli se mi podaří přispět k tomu, aby českému publiku byl k dispozici populární YouTube kanál o Buddhově učení. Uvítám proto jakékoli dobré nápady, tipy, rady či pomoc.<br><br>

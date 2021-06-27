@@ -7,8 +7,9 @@ layout: default
 
 ### BLOG<br>
 
-1.Jak tvořit titulky<br>
+<div class="no-link-underline" markdown="1" >
+<span>1.</span> [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
+<span>2.</span> [Povolení ke tvorbě YouTube kanálu PANDITA CZ](povoleni-ke-tvorbe.html) <br>
+<span>3.</span> [Význam licence CC Uveďte původ 4.0 pro předávání Buddhova učení budoucím generacím](vyznam-licence-cc.html) <br>
 
-2.Povolení ke tvorbě YouTube kanálu PANDITA CZ<br>
-
-3.Význam licence CC Uveďte původ 4.0 pro předávání Buddhova učení budoucím generacím <br>
+</div>
