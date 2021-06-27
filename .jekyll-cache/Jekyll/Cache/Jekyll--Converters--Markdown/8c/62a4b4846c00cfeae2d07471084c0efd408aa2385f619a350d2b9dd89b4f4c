@@ -1,5 +1,5 @@
-I"H+<div id="intro-content-button-wrapper">
-  <div id="intro-content-button">Obsah:</div>
+I"2+<div id="intro-content-button-wrapper">
+  <button id="intro-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
 <!--<div class="buddhist-flag">
@@ -9,12 +9,12 @@
 
 <div id="intro-content-menu" class="hide-intro-content-menu">
   <div class="div-height"></div>
-  <div class="intro-content-menu-item">PANDITA CZ</div>
-  <div class="intro-content-menu-item">Povolení</div>
-  <div class="intro-content-menu-item">Důležitá otázka</div>
-  <div class="intro-content-menu-item">Dhamma depozitář</div>
-  <div class="intro-content-menu-item">Autorský zákon</div>
-  <div class="intro-content-menu-item">Kontakt</div>
+  <div class="content-item-1">PANDITA CZ</div>
+  <div class="content-item-2">Povolení</div>
+  <div class="content-item-3">Důležitá otázka</div>
+  <div class="content-item-4">Dhamma depozitář</div>
+  <div class="content-item-5">Autorský zákon</div>
+  <div class="content-item-6">Kontakt</div>
   <div class="div-height"></div>
 </div>
 
