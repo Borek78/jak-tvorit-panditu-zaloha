@@ -1,6 +1,5 @@
-I"L+<div id="intro-content-button-wrapper">
-  <div id="intro-content-button">Obsah:</div>
-  <button class="btn"><i class="fa fa-bars"></i></button>
+I",<div id="intro-content-button-wrapper">
+  <button id="intro-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
 <!--<div class="buddhist-flag">
@@ -10,14 +9,16 @@
 
 <div id="intro-content-menu" class="hide-intro-content-menu">
   <div class="div-height"></div>
-  <div class="content-item-1">PANDITA CZ</div>
-  <div class="content-item-2">Povolení</div>
-  <div class="content-item-3">Důležitá otázka</div>
-  <div class="content-item-4">Dhamma depozitář</div>
-  <div class="content-item-5">Autorský zákon</div>
-  <div class="content-item-6">Kontakt</div>
+  <div class="content-item-1" href="#anchor-pandita">PANDITA CZ</div>
+  <div class="content-item-2" href="#anchor-povoleni">Povolení</div>
+  <div class="content-item-3" href="#dulezita-otazka">Důležitá otázka</div>
+  <div class="content-item-4" href="#dhamma-depozitar">Dhamma depozitář</div>
+  <div class="content-item-5" href="#autorsky-zakon">Autorský zákon</div>
+  <div class="content-item-6" href="#kontakt">Kontakt</div>
   <div class="div-height"></div>
 </div>
+
+<div id="anchor-pandita"></div>
 
 <div id="mili-priznivci"> Milí příznivci Buddhova učení,</div>
 
@@ -25,13 +26,15 @@
 
 <h3 id="pandita-cz">PANDITA CZ</h3>
 
-<p>Mým záměrem je publikovat na PANDITA CZ vzdělávací materiály o théravádovém buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br /><br /></p>
+<div id="anchor-pandita">
+Mým záměrem je publikovat na PANDITA CZ vzdělávací materiály o théravádovém buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br /><br /></div>
 
 <p>Inspiruje mě velmi velmi úspěšný polský <a href="https://www.youtube.com/user/sasanaPL">YouTube kanálu Sasana.pl</a>. Některá videa na tomto kanálu mají ke dni zveřejnění této stránky (30.5.2021) více než jeden milion zobrazení a celý kanál má více než 88 tisíc odběratelů.</p>
 
 <h3 id="povolení">POVOLENÍ</h3>
 
-<p>K tvorbě kanálu mám nyní několik povolení.<br /><br /></p>
+<div id="anchor-povoleni">
+K tvorbě kanálu mám nyní několik povolení.<br /><br /></div>
 
 <p>Od Bhante Sujívy a od italského meditačního centra <a href="https://www.piandeiciliegi.it/en/">Centro Meditazione di Pian Dei Ciliegi</a> mám povolení používat videa Bhante Sujívy. Součástí tohoto povolení je i používat titulky, které k těmto videím vytváří Hanka Haladová.<br /><br /></p>
 

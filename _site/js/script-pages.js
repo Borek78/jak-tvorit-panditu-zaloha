@@ -1,3 +1,4 @@
+//hide and show the content menu
 document
   .querySelector("#intro-content-button")
   .addEventListener("click", hideShowIntroContent);

@@ -1,0 +1,16 @@
+h2 {
+  color: #b7542d;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: arial, "Raleway", sans-serif;
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid #b37800;
+  order-radius: 5px;
+  ackground-color: rgb(245, 245, 123);
+
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+div#intro-content-menu a.
