@@ -1,4 +1,4 @@
-I"I+<div id="intro-content-button-wrapper">
+I"T+<div id="intro-content-button-wrapper">
   <div id="intro-content-button">Obsah:</div>
 </div>
 
@@ -9,13 +9,12 @@
 
 <div id="intro-content-menu" class="hide-intro-content-menu">
   <div class="div-height"></div>
-  <div class="intro-content-menu-item">PANDITA CZ</div>
-
-  <div class="intro-content-menu-item">Povolení</div>
-  <div class="intro-content-menu-item">Důležitá otázka</div>
-  <div class="intro-content-menu-item">Dhamma depozitář</div>
-  <div class="intro-content-menu-item">Autorský zákon</div>
-  <div class="intro-content-menu-item">Kontakt</div>
+  <div class="intro-content-menu-item-1">PANDITA CZ</div>
+  <div class="intro-content-menu-item-2">Povolení</div>
+  <div class="intro-content-menu-item-3">Důležitá otázka</div>
+  <div class="intro-content-menu-item-4">Dhamma depozitář</div>
+  <div class="intro-content-menu-item-5">Autorský zákon</div>
+  <div class="intro-content-menu-item-6">Kontakt</div>
   <div class="div-height"></div>
 </div>
 

@@ -4,21 +4,24 @@
 
 .show-intro-content-menu {
   height: 212px;
-  display: block;
 }
 
 .hide-intro-content-menu {
   height: 0px;
-  display: none;
 }
 
 /*intro-content*/
 
-.intro-content-menu-item:hover {
+.content-hover-class:hover {
   background-color: #923a17;
 }
 
-.intro-content-menu-item {
+.content-item-1,
+.content-item-2,
+.content-item-3,
+.content-item-4,
+.content-item-5,
+.content-item-6 {
   padding-left: 20px;
   line-height: 1.8;
 }

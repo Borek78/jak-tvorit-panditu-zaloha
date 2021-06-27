@@ -1,4 +1,4 @@
-I"n+<div id="intro-content-button-wrapper">
+I"x+<div id="intro-content-button-wrapper">
   <div id="intro-content-button">Obsah:</div>
 </div>
 
@@ -8,15 +8,13 @@
 </div>-->
 
 <div id="intro-content-menu" class="hide-intro-content-menu">
-  <div class="intro-content-menu-item first-intro-content-menu-item">
-    PANDITA CZ
-  </div>
   <div class="div-height"></div>
-  <div class="intro-content-menu-item">Povolení</div>
-  <div class="intro-content-menu-item">Důležitá otázka</div>
-  <div class="intro-content-menu-item">Dhamma depozitář</div>
-  <div class="intro-content-menu-item">Autorský zákon</div>
-  <div class="intro-content-menu-item">Kontakt</div>
+  <div class="padding intro-content-menu-item">PANDITA CZ</div>
+  <div class="padding intro-content-menu-item">Povolení</div>
+  <div class="padding intro-content-menu-item">Důležitá otázka</div>
+  <div class="padding intro-content-menu-item">Dhamma depozitář</div>
+  <div class="padding intro-content-menu-item">Autorský zákon</div>
+  <div class="padding intro-content-menu-item">Kontakt</div>
   <div class="div-height"></div>
 </div>
 
