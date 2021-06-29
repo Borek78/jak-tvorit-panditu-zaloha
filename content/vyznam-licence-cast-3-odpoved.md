@@ -1,8 +1,8 @@
 ### ODPOVĚĎ
 
-Nyní se pokusím na moji otázku odpovědět.<br><br>
+Nyní se pokusím na moji otázku odpovědět.<br>
 
-#### A <br>
+#### A
 
 Na této stránce jsem našel něco, co se myslím týká i mojí situace.<br><br>
 
@@ -29,7 +29,7 @@ Mohla by mi Buddhistická společnost Západní Austrálie dát povolení,
 abych celý text titulků zveřejnil pod licencí CC Uveďte původ 4.0?
 Dalo by se to vyřešit tímto způsobem?<br>
 
-#### B<br>
+#### B
 
 Na této stránce jsem našel následující text.<br><br>
 
@@ -55,4 +55,4 @@ the rights you have in the work.“ <br><br>
 To by opravdu mělo znamenat, že moji práci na titulcích můžu
 publikovat pod licencí CC Uveďtě původ 4.0. Jen musím dostatečně
 upozornit na to, že nejsem vlastníkem předlohy, ke které jsem titulky
-vytvořil.<br><br>
+vytvořil.<br>

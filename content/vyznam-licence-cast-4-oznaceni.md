@@ -9,7 +9,7 @@ vytvářel.<br><br>
 \_party_content](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third
 \_party_content)<br><br>
 
-Zaujaly mě na ní tyto dvě části.<br><br>
+Zaujaly mě na ní tyto dvě části.<br>
 
 <div class="citace">
 „Using third party content in your work that is not offered under
@@ -30,16 +30,15 @@ licensor to offer users guidance beyond the terms of the license.
 CC licensors can use notices and marking to inform users of any
 limitations on the application of the CC license to their work.“
 </div>
-<br><br>
 
 ### YOUTUBE
 
 Moje práce na titulcích, kterou chci zveřejnit pod licencí CC Uveďte
 původ 4.0 je k dispozici na Youtube. Informaci o CC licenci k českým
 8titulkům můžu uvést v popisku každého videa. To jsem se dočetl na
-následující stránce.<br><br><
+následující stránce.<br><br>
 
-[https://creativecommons.org/faq/#how-do-i-apply-a-creativecommons-license-to-my-material](https://creativecommons.org/faq/#how-do-i-apply-a-creativecommons-license-to-my-material)<br><br>
+[https://creativecommons.org/ faq/#how-do-i-apply-a-creativecommons-license-to-my-material](https://creativecommons.org/faq/#how-do-i-apply-a-creativecommons-license-to-my-material)<br>
 
 <div class="citace">
 „For third-party platforms: Many media platforms like Flickr,

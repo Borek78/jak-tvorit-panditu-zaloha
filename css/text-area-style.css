@@ -32,6 +32,7 @@ h3 {
   order: 1px solid green;
   font-size: 17px;
   padding-left: 21px;
+  text-transform: uppercase;
 }
 
 p {
@@ -71,7 +72,7 @@ h4 {
   width: 600px;
   border-radius: 20px;
   padding-top: 20px;
-  box-shadow: 0px 0px 5px 0px #ccc;
+  ox-shadow: 0px 0px 5px 0px #ccc;
   text-align: justify;
   font-family: arial;
   line-height: 1.6;
@@ -80,7 +81,7 @@ h4 {
 }
 
 #main {
-  background-color: #efefef;
   padding-top: 40px;
   padding-bottom: 40px;
+  background-color: #efefef;
 }

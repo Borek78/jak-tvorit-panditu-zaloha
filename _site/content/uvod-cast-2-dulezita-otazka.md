@@ -1,5 +1,5 @@
 <div id="anchor-dulezita-otazka" markdown="1" >
-### DŮLEŽITÁ OTÁZKA
+### Důležitá otázka
 </div>
 
 Vytvoření YouTube kanálu jako je Sasana.pl vyžadovalo mnohaleté úsilí mnoha lidí, kteří tvorbě kanálu věnovali buď svůj čas nebo finanční prostředky. Pokud se podaří vytvořit podobný YouTube kanál i v naší zemi, bude to vyžadovat srovnatelné úsilí.<br><br>
@@ -11,7 +11,7 @@ Kdokoli, kdo bude mít chuť se na tvorbě YouTube kanálu PANDITA CZ podílet, 
 Jak se tedy vyrovnat s rizikem, že YouTube kanál PANDITA CZ bude jednoho dne smazán nebo bude práce všech dobrovolníků, která je na něm k dispozici, nějakým způsobem znehodnocená? Jinými slovy, můžeme nějakým způsobem zařídit, aby práce všech dobrovolníků a dárců nebyla závislá na mojí osobě a YouTube kanálu PANDITA CZ?
 
 <div id="anchor-dhamma-depozitar" markdown="1" >
-### DHAMMA DEPOZITÁŘ
+### Dhamma depozitář
 </div>
 
 Řešením může být zřízení cloudového úložiště, na které by všichni dobrovolníci mohli ukládat svoje překlady. Stejně tak by bylo toto úložiště k dispozici i pro jakékoli zvukové stopy, které můžou vzniknout jak v profesionálních studiích, tak i v domácích podmínkách. Z tohoto úložiště by pak mohl práci všech dobrovlníků jednoduše zálohovat každý člen české buddhistické komunity. <br><br>

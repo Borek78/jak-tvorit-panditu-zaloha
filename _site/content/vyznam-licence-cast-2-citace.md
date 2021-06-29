@@ -20,7 +20,6 @@ Jaromír Šavelka, Libor Kyncl a Iveta Sviráková<br>
 str.55<br>
 
 </div>
-<br><br>
 
 Budu tedy pro moji činnost používat licenci CC „Uveďte autora“ 4.0.
 Název této licence je překládán i jako CC Uveďtě původ 4.0.

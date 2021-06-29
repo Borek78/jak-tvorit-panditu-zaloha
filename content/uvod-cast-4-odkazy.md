@@ -1,6 +1,6 @@
 <!-- prettier-ignore-start -->
 <div id="anchor-odkazy" markdown="1" >
-### ODKAZY NA TÉTO STRÁNCE
+### Odkazy na této stránce
 </div >
 <div class="no-link-underline" markdown="1" >
 <span>1.</span> [YouTube kanál PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
@@ -16,7 +16,7 @@
 <span>11.</span> [Licence Uveďtě původ 4.0 Mezinárodní (CC-BY)](https://creativecommons.org/licenses/by/4.0/deed.cs)<br>
 </div>
 
-### ODKAZY NA DGD
+### Odkazy na DGD
 
 <div class="no-link-underline" markdown="1" >
 [Dalibor Pavlík](https://drive.google.com/drive/u/0/my-drive)

@@ -1,4 +1,4 @@
-#### Význam licence CC Uveďte původ 4.0 pro předávání Buddhova učení budoucím generacím<br><br>
+## Licence CC Uveďte původ 4.0.
 
 Dobrý den,<br><br>
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
@@ -7,10 +7,12 @@ týká mé činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.
 ### POVOLENÍ
 
 V současnosti vytvářím buddhistický YouTube kanál PANDITA CZ.<br><br>
-[https://www.youtube.com/ channel/ UC1IIp3Yo_PaJPsEU9BUk1ew](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew)<br><br>
+
+[https://www.youtube.com/ channel/ UC1IIp3Yo\_ PaJPsEU9BUk1ew](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew)<br><br>
 
 Od Buddhistické společnosti Západní Austrálie (BSZA) mám povolení
 používat videa z jejich YouTube kanálu.<br><br>
+
 [https://www.youtube.com /user/ BuddhistSocietyWA](https://www.youtube.com/user/BuddhistSocietyWA)<br><br>
 
 To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
@@ -51,4 +53,4 @@ Jako ideální se mi zdálo použít ke zveřejnění mojí práce [licenci CC0
 autor vzdal všech práv, která souvisí s prací, kterou jsem vložil do
 tvorby titulků. To ale autorský zákon neumožnuje [ [§11- (4)](https://www.zakonyprolidi.cz/cs/2000-121#p11-4), [§26 - (1)](https://www.zakonyprolidi.cz/cs/2000-121#p26-1) ].<br><br>
 
-Dobře tuto situaci popisuje i následující pasáž z knihy Veřejné licence v České republice 2.0.<br><br>
+Dobře tuto situaci popisuje i následující pasáž z knihy Veřejné licence v České republice 2.0.<br>
