@@ -22,6 +22,7 @@
   border-radius: 5px;
   text-align: center;
   border: 3px solid orange;
+  display: none;
 }
 
 /*menu in the header*/
@@ -60,6 +61,7 @@ a#uplne-levy {
   background-color: white;
   padding-left: 10px;
   padding-right: 10px;
+  text-decoration: none;
 }
 
 #inside-menu {

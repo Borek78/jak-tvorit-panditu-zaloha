@@ -7,8 +7,7 @@ layout: default
 
 {% include_relative _includes/intro-content.html %}
 
-{% include_relative md-files/uvod-cast-1-pandita-cz.md %}
-
-{% include_relative md-files/uvod-cast-2-dulezita-otazka.md %}
-{% include_relative md-files/uvod-cast-3-autorska-prava.md %}
-{% include_relative md-files/uvod-cast-4-odkazy.md %}
+{% include_relative content/uvod-cast-1-pandita-cz.md %}
+{% include_relative content/uvod-cast-2-dulezita-otazka.md %}
+{% include_relative content/uvod-cast-3-autorska-prava.md %}
+{% include_relative content/uvod-cast-4-odkazy.md %}

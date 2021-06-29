@@ -5,4 +5,7 @@
 layout: default
 ---
 
-#### Význam licence CC Uveďte původ 4.0 pro předávání Buddhova učení budoucím generacím
+{% include_relative content/vyznam-licence-cast-1-povoleni.md %}
+{% include_relative content/vyznam-licence-cast-2-citace.md %}
+{% include_relative content/vyznam-licence-cast-3-odpoved.md %}
+{% include_relative content/vyznam-licence-cast-4-oznaceni.md %}
