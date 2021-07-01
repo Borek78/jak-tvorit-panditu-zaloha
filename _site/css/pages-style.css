@@ -1,12 +1,38 @@
+/*wrap some link if necessary*/
+div.do-not-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/*links on the blog page*/
 #page div.no-link-underline h3 a {
-  color: #b7542d;
   margin-bottom: 30px;
 
   /* Fallback: Set a background color. */
-  background-color: red;
+  color: #b7542d;
 
   /* Create the gradient. */
-  background-image: linear-gradient(45deg, #b7542d, #b37800, #b7542d);
+  background-image: linear-gradient(
+    45deg,
+    orange,
+    #b7542d,
+    #b7542d,
+    #b7542d,
+    #b7542d
+  );
 
   /* Set the background size and repeat properties. */
   background-size: 100%;
@@ -20,21 +46,12 @@
   -moz-text-fill-color: transparent;
 }
 
-blog-wrapper {
-  margin-left: auto;
-  margin-right: auto;
-  width: 150px;
-  order: 1px solid green;
-  padding-right: 35px;
+/*remove the yellow pipali for this element*/
+#blog h3 {
+  background-image: none;
 }
 
-#blog {
-  width: 92px;
-  margin-left: auto;
-  margin-right: auto;
-  adding: 0px;
-}
-
+/*used only once for A and B - maybe I will delete it */
 h4 {
   color: #b7542d;
   font-weight: bold;
@@ -44,16 +61,9 @@ h4 {
   display: block;
 }
 
+/*h2 - used for title of every page*/
 h2 {
   color: #b7542d;
-  ackground-color: #b37800;
-  ackground-image: url(../assets/pipali-hnedy-50-68.png);
-  background-repeat: no-repeat;
-  background-size: 23px 31px;
-  background-position: 5px -0px;
-
-  order-bottom: 2px dotted #b7542d;
-
   font-size: 21px;
   line-height: 1.3;
   display: block;
@@ -68,51 +78,12 @@ h2 {
   text-align: center;
 }
 
-/*h2 {
-  color: #b37800;
-
-  background-image: url(../assets/pipali-hnedy-50-68.png);
-  background-repeat: no-repeat;
-  background-size: 22px 27px;
-  background-position: 5px 2px;
-
-  border-bottom: 2px solid #b37800;
-
-  font-size: 25px;
-  line-height: 1.3;
-  display: block;
-
-  padding-left: 35px;
-  height: 32px;
-  font-weight: 400;
-  font-style: normal;
-  text-align: left;
-  idth: 220px;
-  margin-left: auto;
-  margin-right: auto;
-
-  order-radius: 5px;
-  margin-bottom: 40px;
-}*/
-
-/*
-h2 {
-  color: #8a3e20;
-  display: block;
-  ext-align: center;
-  height: 30px;
-  padding-bottom: 5px;
-
-  order-bottom: 3px solid #b37800;
-  idth: 220px;
-}*/
-
+/*this makes every quated text look different*/
 .citace {
   background-color: #feffd2;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 35px;
   margin-top: 35px;
-
   border: 1px dotted #b7542d85;
 }

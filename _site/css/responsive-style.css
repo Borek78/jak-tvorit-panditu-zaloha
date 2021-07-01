@@ -101,12 +101,12 @@ a.blue:hover {
 /*show text without horizontal margins when width < 600*/
 @media only screen and (max-width: 600px) {
   #page {
-    width: auto;
+    width: 100%;
   }
 
   #text-in-page {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 100%;
+    margin-right: 100%;
   }
 }
 
@@ -114,7 +114,7 @@ a.blue:hover {
   #text-in-page {
     margin-right: 10px;
     margin-left: 10px;
-    width: auto;
+    width: 100%;
   }
 }
 

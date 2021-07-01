@@ -134,4 +134,6 @@ footer {
   order: 1px solid blue;
   background-color: #b37800;
   margin-top: 0px;
+  width: 100%;
+  min-width: 100%;
 }

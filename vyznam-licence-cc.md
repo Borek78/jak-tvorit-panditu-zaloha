@@ -5,7 +5,8 @@
 layout: default
 ---
 
-{% include_relative content/vyznam-licence-cast-1-povoleni.md %}
-{% include_relative content/vyznam-licence-cast-2-citace.md %}
-{% include_relative content/vyznam-licence-cast-3-odpoved.md %}
-{% include_relative content/vyznam-licence-cast-4-oznaceni.md %}
+{% include_relative content/1-vyznam-licence-povoleni.md %}
+{% include_relative content/2-vyznam-licence-citace.md %}
+{% include_relative content/3-vyznam-licence-odpoved.md %}
+{% include_relative content/4-vyznam-licence-oznaceni.md %}
+{% include_relative content/5-vyznam-licence-reseni.md %}
