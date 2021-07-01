@@ -101,12 +101,21 @@ a.blue:hover {
 /*show text without horizontal margins when width < 600*/
 @media only screen and (max-width: 600px) {
   #page {
-    width: 100%;
+    width: auto;
   }
 
   #text-in-page {
-    margin-left: 100%;
-    margin-right: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #mobile-web-under-construction {
+    display: block;
+    display: none;
+  }
+
+  #web-under-construction {
+    display: none;
   }
 }
 
@@ -114,18 +123,7 @@ a.blue:hover {
   #text-in-page {
     margin-right: 10px;
     margin-left: 10px;
-    width: 100%;
-  }
-}
-
-/*mobile - web under construction*/
-@media only screen and (max-width: 600px) {
-  #mobile-web-under-construction {
-    display: block;
-  }
-
-  #web-under-construction {
-    display: none;
+    width: auto;
   }
 }
 

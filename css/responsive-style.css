@@ -108,6 +108,15 @@ a.blue:hover {
     margin-left: auto;
     margin-right: auto;
   }
+
+  #mobile-web-under-construction {
+    display: block;
+    display: none;
+  }
+
+  #web-under-construction {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 520px) {
@@ -115,17 +124,6 @@ a.blue:hover {
     margin-right: 10px;
     margin-left: 10px;
     width: auto;
-  }
-}
-
-/*mobile - web under construction*/
-@media only screen and (max-width: 600px) {
-  #mobile-web-under-construction {
-    display: block;
-  }
-
-  #web-under-construction {
-    display: none;
   }
 }
 

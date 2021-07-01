@@ -22,6 +22,7 @@
     background-size: 25px 25px;
     background-position: 18px 5px;
     width: 280px;
+    isplay: none;
   }
 
   #text-napisu {
@@ -40,6 +41,7 @@
     background-size: 21px 21px;
     background-position: 18px 5px;
     width: 240px;
+    isplay: none;
   }
 
   #text-napisu {
@@ -52,12 +54,13 @@
   }
 }
 
-@media only screen and (max-width: 325px) {
+@media only screen and (max-width: 370px) {
   #napis {
     font-size: 18px;
     background-size: 18px 18px;
     background-position: 12px 4px;
     width: 200px;
+    isplay: none;
   }
 
   #text-napisu {
