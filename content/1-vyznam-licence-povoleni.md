@@ -1,10 +1,14 @@
-## Licence CC Uveďte původ 4.0.
+<!--<h5 style="text-align:left; margin-top:20px; margin-bottom:5px"> to: creativecommons.cz</h5>
+<h5 style="text-align:left;margin-bottom:50px"> datum: 29.6.2021</h5>*/-->
 
-Dobrý den,<br><br>
+<div style="margin-top:40px">Dobrý den,</div><br>
+
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
 týká mé činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.
 
+<div id="anchor-povoleni" markdown="1">
 ### POVOLENÍ
+</div >
 
 V současnosti vytvářím buddhistický YouTube kanál PANDITA CZ.<br><br>
 
@@ -22,7 +26,9 @@ používat videa z jejich YouTube kanálu.<br><br>
 To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
 české znění, a umístit je na můj YouTube kanál PANDITA CZ.
 
+<div id="vytvorene-titulky" markdown="1">
 ### VYTVOŘENÉ TITULKY
+</div>
 
 Ke dnešnímu dni (28.5.2021) jsem vytvořil titulky k těmto videím:<br><br>
 
@@ -39,7 +45,9 @@ Ke dnešnímu dni (28.5.2021) jsem vytvořil titulky k těmto videím:<br><br>
 yourself](https://www.youtube.com/watch?v=eu0RtEG6V4A&t=3020s)
 </span>
 
+<div id="autorsky-zakon" markdown="1">
 ### AUTORSKÝ ZÁKON
+</div>
 
 [Autorský zákon (zákon č. 121/2000)](https://www.zakonyprolidi.cz/cs/2000-121) chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
 nechat tento vzkaz:<br><br>

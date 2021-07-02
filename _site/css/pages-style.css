@@ -1,3 +1,28 @@
+.show-intro-content-menu {
+  height: 212px;
+  margin-bottom: 50px;
+}
+
+.hide-intro-content-menu {
+  height: 0px;
+  margin-bottom: 10px;
+}
+
+/*h5 styles */
+
+h5 {
+  font-size: 16px;
+  color: #b7542d;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+/*hover link on the blog page*/
+#page div.no-link-underline h3 a:hover {
+  border-bottom: 3px dashed orange;
+}
+
 /*wrap some link if necessary*/
 div.do-not-break-out {
   /* These are technically the same, but use both */

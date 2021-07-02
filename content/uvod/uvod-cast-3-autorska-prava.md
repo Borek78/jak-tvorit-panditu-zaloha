@@ -4,9 +4,11 @@
 
 Na DGD jsem již nahrál titulky, které jsem vytvořil ke třem videím Ajahna Brahma. Možná bude v budoucnoti chtít moje titulky použít někdo další, a to na jiném YouTube kanálu nebo jiné platformě pro sdílení videí. <br><br>
 
-Pokud někdo bude o použití mojí práce uvažovat, může váhat a klást si následující otázku:<br><br>
+Pokud někdo bude o použití mojí práce uvažovat, může váhat a klást si následující otázku:
 
-„Rád bych ty titulky použil. Můžu to ale udělat? Práce všech autorů je v České republice chráněna autorským právem a já nemám povolení ty titulky použít.“<br><br>
+<div class="citace" markdown="1">
+„Rád bych ty titulky použil. Můžu to ale udělat? Práce všech autorů je v České republice chráněna autorským právem a já nemám povolení ty titulky použít.“
+</div>
 
 Taková obava by určitě byla opodstatněná. [Autorský zákon (zákon č. 121/2000)](https://www.zakonyprolidi.cz/cs/2000-121) chrání práci, kterou autoři vloží do tvroby svého díla. Autorský zákon navíc neumožňuje, aby se tvůrci vzdali všech svých práv ke svému dílu [ [§11- (4)](https://www.zakonyprolidi.cz/cs/2000-121#p11-4), [ [§26 - (1)](https://www.zakonyprolidi.cz/cs/2000-121#p26-1) ].<br><br>
 

@@ -5,7 +5,7 @@
 layout: default
 ---
 
-{% include_relative _includes/intro-content.html %}
+{% include_relative _includes/content-intro.html %}
 
 {% include_relative content/uvod/uvod-cast-1-pandita-cz.md %}
 {% include_relative content/uvod/uvod-cast-2-dulezita-otazka.md %}

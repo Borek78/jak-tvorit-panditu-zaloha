@@ -5,6 +5,8 @@
 layout: default
 ---
 
+{% include_relative _includes/content-cc-email.html %}
+
 {% include_relative content/1-vyznam-licence-povoleni.md %}
 {% include_relative content/2-vyznam-licence-citace.md %}
 {% include_relative content/3-vyznam-licence-odpoved.md %}

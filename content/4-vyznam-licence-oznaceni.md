@@ -1,4 +1,6 @@
+<div id="anchor-oznaceni-tretich-stran" markdown="1">
 ### OZNAČENÍ TŘETÍCH STRAN
+</div>
 
 Na této stránce jsem pak našel bližší informace k tomu, jakým
 způsobem bych měl moji práci označit. Nabyvatele licence tak můžu
@@ -32,7 +34,9 @@ CC licensors can use notices and marking to inform users of any
 limitations on the application of the CC license to their work.“
 </div>
 
+<div id="anchor-youtube" markdown="1">
 ### YOUTUBE
+</div>
 
 Moje práce na titulcích, kterou chci zveřejnit pod licencí CC Uveďte
 původ 4.0 je k dispozici na Youtube. Informaci o CC licenci k českým

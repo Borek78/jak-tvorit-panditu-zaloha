@@ -4,9 +4,11 @@
 
 Vytvoření YouTube kanálu jako je Sasana.pl vyžadovalo mnohaleté úsilí mnoha lidí, kteří tvorbě kanálu věnovali buď svůj čas nebo finanční prostředky. Pokud se podaří vytvořit podobný YouTube kanál i v naší zemi, bude to vyžadovat srovnatelné úsilí.<br><br>
 
-Kdokoli, kdo bude mít chuť se na tvorbě YouTube kanálu PANDITA CZ podílet, si pravděpodobně bude klást otázku, která bude podobná této:<br><br>
+Kdokoli, kdo bude mít chuť se na tvorbě YouTube kanálu PANDITA CZ podílet, si pravděpodobně bude klást otázku, která bude podobná této:
 
-„Byla by to skvělá věc, kdyby v naší zemi byl takový YouTube kanál. Možná bych se na jeho tvorbě mohl podílet. Co se ale stane s mojí prací, když by někdo ten YouTube kanál smazal? Může ho smazat Dalibor. Může ho smazat YouTube. To se může stát.“<br><br>
+<div class="citace" markdown="1">
+„Byla by to skvělá věc, kdyby v naší zemi byl takový YouTube kanál. Možná bych se na jeho tvorbě mohl podílet. Co se ale stane s mojí prací, když by někdo ten YouTube kanál smazal? Může ho smazat Dalibor. Může ho smazat YouTube. To se může stát.“
+</div>
 
 Jak se tedy vyrovnat s rizikem, že YouTube kanál PANDITA CZ bude jednoho dne smazán nebo bude práce všech dobrovolníků, která je na něm k dispozici, nějakým způsobem znehodnocená? Jinými slovy, můžeme nějakým způsobem zařídit, aby práce všech dobrovolníků a dárců nebyla závislá na mojí osobě a YouTube kanálu PANDITA CZ?
 

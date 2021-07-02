@@ -24,7 +24,9 @@ str.55<br>
 Budu tedy pro moji činnost používat licenci CC „Uveďte autora“ 4.0.
 Název této licence je překládán i jako CC Uveďtě původ 4.0.
 
+<div id="anchor-prekazka" markdown="1">
 ### PŘEKÁŽKA
+</div>
 
 Problém je, že nejsem vlastníkem videí, ke kterým jsem titulky vytvořil. Vlastníkem těchto videí je Buddhistická společnost Západní Austrálie. Proto nemůžu být ani vlastníkem titulků, které jsem vytvořil. A proto je ani nemůžu publikovat pod licencí CC Uveďte původ 4.0. <br><br>
 
@@ -32,7 +34,9 @@ Dá se to nějak vyřešit?<br><br>
 
 Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl? Nebo existuje nějaké další řešení?
 
+<div id="dobry-dusledek" markdown="1">
 ### DOBRÝ DŮSLEDEK
+</div>
 
 Pokud bych mohl zvěřejnit pod licencí CC Uveďte původ 4.0. jenom
 moji práci na titulcích, mělo by to jeden velmi dobrý důsledek.<br><br>

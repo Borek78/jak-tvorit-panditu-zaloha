@@ -1,5 +1,4 @@
 /* events after clicking the icon-close */
-
 document.getElementById("icon-close").addEventListener("click", hideMenu);
 document.getElementById("icon-close").addEventListener("click", showIconMenu);
 document.getElementById("icon-close").addEventListener("click", hideIconClose);
