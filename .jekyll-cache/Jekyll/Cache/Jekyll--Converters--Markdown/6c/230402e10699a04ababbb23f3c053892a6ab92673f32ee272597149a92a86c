@@ -1,13 +1,8 @@
-I"�<<div id="intro-content-button-wrapper">
-  <button id="intro-content-button"><i class="fa fa-bars"></i> Obsah</button>
+I"�:<div id="intro-content-button-wrapper">
+  <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
-<!--<div class="buddhist-flag">
-  <mg id="buddhist-flag" src="../assets/buddhist-flag.png" alt="buddhist-flag" >
-  <div id="buddhisticka-vlajka-napis">Buddhistická vlajka</div>
-  </div>-->
-
-<div id="intro-content-menu" class="hide-intro-content-menu">
+<div id="cc-email-content-menu" class="hide-cc-email-content-menu">
   <div class="div-height"></div>
   <a class="content-item-1" href="#anchor-povoleni">Povolení</a>
   <a class="content-item-2" href="#anchor-vytvorene-titulky">Vytvořené titulky</a>
@@ -15,20 +10,17 @@
   <a class="content-item-4" href="#anchor-prekazka">Překážka</a>
   <a class="content-item-5" href="#anchor-dobry-dusledek">Dobrý důsledek</a>
   <a class="content-item-6" href="#anchor-odpoved">Odpověď</a>
-  <a class="content-item-6" href="#anchor-oznaceni-tretich-stran">Označení třetích stran</a>
-  <a class="content-item-6" href="#anchor-youtube">YouTube</a>
-  <a class="content-item-6" href="#anchor-reseni">Řešení</a>
-  <a class="content-item-6" href="#anchor-otazky-na-zaver">Otázky na závěr</a>
+  <a class="content-item-7" href="#anchor-oznaceni-tretich-stran">Označení třetích stran</a>
+  <a class="content-item-8" href="#anchor-youtube">YouTube</a>
+  <a class="content-item-9" href="#anchor-reseni">Řešení</a>
+  <a class="content-item-10" href="#anchor-otazky-na-zaver">Otázky na závěr</a>
 
   <a class="div-height"></a>
 </div>
 
 <div id="anchor-pandita"></div>
 
-<!--<h5 style="text-align:left; margin-top:20px; margin-bottom:5px"> to: creativecommons.cz</h5>
-<h5 style="text-align:left;margin-bottom:50px"> datum: 29.6.2021</h5>*/-->
-
-<div style="margin-top:40px">Dobrý den,</div>
+<div style="">Dobrý den,</div>
 <p><br /></p>
 
 <p>jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
@@ -54,7 +46,7 @@ používat videa z jejich YouTube kanálu.<br /><br /></p>
 <p>To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
 české znění, a umístit je na můj YouTube kanál PANDITA CZ.</p>
 
-<div id="vytvorene-titulky">
+<div id="anchor-vytvorene-titulky">
   <h3 id="vytvoen-titulky">VYTVOŘENÉ TITULKY</h3>
 </div>
 
@@ -73,16 +65,18 @@ používat videa z jejich YouTube kanálu.<br /><br /></p>
 yourself</a>
 </span></p>
 
-<div id="autorsky-zakon">
+<div id="anchor-autorsky-zakon">
   <h3 id="autorsk-zkon">AUTORSKÝ ZÁKON</h3>
 </div>
 
 <p><a href="https://www.zakonyprolidi.cz/cs/2000-121">Autorský zákon (zákon č. 121/2000)</a> chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
-nechat tento vzkaz:<br /><br /></p>
+nechat tento vzkaz:</p>
 
-<p>„Ahoj. Určitě neváhejte. Všechno, co jsem vytvořil, můžete použít, jak
+<div class="citace">
+„Ahoj. Určitě neváhejte. Všechno, co jsem vytvořil, můžete použít, jak
 jen budete chtít. Nemusíte ani nikde uvádět moje jméno. Máte
-povolení moji práci použít.“<br /><br /></p>
+povolení moji práci použít.“
+</div>
 
 <p>Jak to ale můžu udělat? <br /><br /></p>
 
@@ -129,7 +123,7 @@ Název této licence je překládán i jako CC Uveďtě původ 4.0.</p>
 
 <p>Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl? Nebo existuje nějaké další řešení?</p>
 
-<div id="dobry-dusledek">
+<div id="anchor-dobry-dusledek">
   <h3 id="dobr-dsledek">DOBRÝ DŮSLEDEK</h3>
 </div>
 
@@ -241,83 +235,85 @@ informuje i Edinburská univerzita.<br /><br /></p>
   <p><a href="https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/">https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/</a><br /><br /></p>
 
   <p><a href="http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_o
-n_YouTube.pdf">http://www.d-ocs.is.ed.ac.uk/d-ocs/ede/How-to_apply_a_CC-licence-on_YouTube.pdf</a><br /><br /></p>
+n_YouTube.pdf">http://www.d-ocs.is.ed.ac.uk/d-ocs/ede/How-to_apply_a_CC-licence-on_YouTube.pdf</a><br /></p>
 
 </div>
 
 <div id="anchor-reseni">
   <h3 id="een">ŘEŠENÍ</h3>
-  <div id="anchor-youtube">
+</div>
 
-    <p>K výše zmíněným videím s titulky jsem přidal do popisku videa tento
+<p>K výše zmíněným videím s titulky jsem přidal do popisku videa tento
 text: <br /></p>
 
-    <div class="citace">
-      <h5 style="text-align:left">//𝐂𝐂-𝐁𝐘 - LICENCE K ČESKÝM TITULKŮM</h5>
+<div class="citace">
+  <h5 style="text-align:left">//𝐂𝐂-𝐁𝐘 - LICENCE K ČESKÝM TITULKŮM</h5>
 
-      <p>Autorem českých titulků k tomuto videu je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0.<br /><br /></p>
+  <p>Autorem českých titulků k tomuto videu je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0.<br /><br /></p>
 
-      <div class="do-not-break-out">
-        <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
-      </div>
-      <p><br /></p>
+  <div class="do-not-break-out">
+    <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
+  </div>
+  <p><br /></p>
 
-      <p>Podrobnější informace o možnosti tyto české titulky použít najdete na: <br /><br /></p>
+  <p>Podrobnější informace o možnosti tyto české titulky použít najdete na: <br /><br /></p>
 
-      <div class="do-not-break-out">
-        <p><a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</a></p>
-      </div>
-    </div>
+  <div class="do-not-break-out">
+    <p><a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</a></p>
+  </div>
+</div>
 
-    <p>Ve složce, na kterou tento text odkazuje je pak soubor podrobnými
+<p>Ve složce, na kterou tento text odkazuje je pak soubor podrobnými
 instrukcemi k použití titulků.</p>
 
-    <div class="citace">
-      <h5> OPRÁVNĚNÍ K POUŽITÍ ZA PODMÍNEK LICENCE
+<div class="citace">
+  <h5> OPRÁVNĚNÍ K POUŽITÍ ZA PODMÍNEK LICENCE
 CC UVEĎTE PŮVOD 4.0. MEZINÁRODNÍ</h5>
 
-      <p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k
+  <p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k
 videím, která jsou ve vlastnictví Buddhistické společnosti Západní
 Austrálie.<br /><br /></p>
 
-      <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je
+  <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je
 licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
 
-      <p>Odkaz na zkrácený text licence najdete na adrese:<br /><br /></p>
+  <p>Odkaz na zkrácený text licence najdete na adrese:<br /><br /></p>
 
-      <div class="do-not-break-out">
-        <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
-      </div>
-      <p><br /></p>
+  <div class="do-not-break-out">
+    <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
+  </div>
+  <p><br /></p>
 
-      <p>Licence se tedy nevztahuje na celý text titulků, vztahuje se pouze k
+  <p>Licence se tedy nevztahuje na celý text titulků, vztahuje se pouze k
 práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud
 někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
 
-      <p>• k tomu musí mít souhlas Buddhistické společnosti Západní
+  <p>• k tomu musí mít souhlas Buddhistické společnosti Západní
 Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky
 vytvořeny.<br /><br /></p>
 
-      <p>• nemusí mít souhlas autora českých titulků, který je podle
+  <p>• nemusí mít souhlas autora českých titulků, který je podle
 předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho
 jméno.<br /><br /></p>
 
-      <p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
+  <p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
 
-    </div>
+</div>
 
-    <h3 id="otzky-na-zvr">OTÁZKY NA ZÁVĚR</h3>
+<div id="anchor-otazky-na-zaver">
+  <h3 id="otzky-na-zvr">OTÁZKY NA ZÁVĚR</h3>
+</div>
 
-    <p>Můžu pod licencí CC Uveďtě původ 4.0. licencovat pouze práci,
+<p>Můžu pod licencí CC Uveďtě původ 4.0. licencovat pouze práci,
 kterou jsem vložil do tvorby titulků? Pokud ano, můžu to udělat
 způsobem, který jsem popsal?<br /><br /></p>
 
-    <p>V případě, že to možné není, můžu pod licencí CC Uveďte původ 4.0
+<p>V případě, že to možné není, můžu pod licencí CC Uveďte původ 4.0
 Mezinárodní zveřejnit celý text titulků? Určitě rozumím tomu, že bych
 k tomu potřeboval svolení BSZA.<br /><br /></p>
 
-    <p>S pozdravem, Dalibor Pavlík</p>
+<p>S pozdravem, Dalibor Pavlík</p>
 
-  </div>
-</div>
+<script src="./js/script-cc-email.js"></script>
+
 :ET

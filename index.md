@@ -11,3 +11,5 @@ layout: default
 {% include_relative content/uvod/uvod-cast-2-dulezita-otazka.md %}
 {% include_relative content/uvod/uvod-cast-3-autorska-prava.md %}
 {% include_relative content/uvod/uvod-cast-4-odkazy.md %}
+
+<script src="./js/script-index.js"></script>

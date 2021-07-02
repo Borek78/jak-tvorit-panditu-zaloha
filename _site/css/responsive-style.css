@@ -101,10 +101,13 @@ a.blue:hover {
   #inside-menu {
     width: auto;
   }
-}
 
-/*show text without horizontal margins when width < 600*/
-@media only screen and (max-width: 600px) {
+  #blog {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
   #page {
     width: auto;
   }

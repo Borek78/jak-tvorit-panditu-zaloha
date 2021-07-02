@@ -12,3 +12,5 @@ layout: default
 {% include_relative content/3-vyznam-licence-odpoved.md %}
 {% include_relative content/4-vyznam-licence-oznaceni.md %}
 {% include_relative content/5-vyznam-licence-reseni.md %}
+
+<script src="./js/script-cc-email.js"></script>

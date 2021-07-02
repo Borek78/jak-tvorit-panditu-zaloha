@@ -1,5 +1,5 @@
-I"°&<div id="intro-content-button-wrapper">
-  <button id="content-button"><i class="fa fa-bars"></i> Obsah</button>
+I"ä&<div id="intro-content-button-wrapper">
+  <button id="intro-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
 <!--<div class="buddhist-flag">
@@ -124,5 +124,7 @@ email: cz.pandita@gmail.com<br />
 </div>
 
 <!-- prettier-ignore-end -->
+
+<script src="./js/script-index.js"></script>
 
 :ET

@@ -90,6 +90,7 @@ div.do-not-break-out {
 /*remove the yellow pipali for this element*/
 #blog h3 {
   background-image: none;
+  padding-left: 0px;
 }
 
 /*used only once for A and B - maybe I will delete it */
