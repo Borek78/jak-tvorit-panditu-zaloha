@@ -1,6 +1,3 @@
-<!--<h5 style="text-align:left; margin-top:20px; margin-bottom:5px"> to: creativecommons.cz</h5>
-<h5 style="text-align:left;margin-bottom:50px"> datum: 29.6.2021</h5>*/-->
-
 <div style="margin-top:40px">Dobrý den,</div><br>
 
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se

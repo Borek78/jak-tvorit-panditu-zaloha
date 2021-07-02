@@ -1,9 +1,9 @@
-.show-content-cc-licence {
+.show-intro-content-menu {
   height: 212px;
   margin-bottom: 50px;
 }
 
-.hide-content-cc-licence {
+.hide-intro-content-menu {
   height: 0px;
   margin-bottom: 10px;
 }
@@ -22,7 +22,18 @@ div#intro-content-menu a.content-item-2,
 div#intro-content-menu a.content-item-3,
 div#intro-content-menu a.content-item-4,
 div#intro-content-menu a.content-item-5,
-div#intro-content-menu a.content-item-6 {
+div#intro-content-menu a.content-item-6,
+/*cc-email*/
+div#cc-email-content-menu a.content-item-1,
+div#cc-email-content-menu a.content-item-2,
+div#cc-email-content-menu a.content-item-3,
+div#cc-email-content-menu a.content-item-4,
+div#cc-email-content-menu a.content-item-5,
+div#cc-email-content-menu a.content-item-6,
+div#cc-email-content-menu a.content-item-7,
+div#cc-email-content-menu a.content-item-8,
+div#cc-email-content-menu a.content-item-9,
+div#cc-email-content-menu a.content-item-10 {
   padding-left: 20px;
   line-height: 1.8;
   font-family: "Raleway", sans-serif;
@@ -37,7 +48,8 @@ div#intro-content-menu a.content-item-6 {
   overflow: hidden;
 }
 
-div#intro-content-menu {
+div#intro-content-menu,
+div#cc-email-content-menu {
   background-color: #b7542d;
   margin-top: 10px;
   border-radius: 10px;
@@ -50,7 +62,8 @@ div#intro-content-menu {
   background-color: #b7542d;
 }
 
-#intro-content-button {
+#intro-content-button,
+#cc-email-content-button {
   width: 80px;
   border: 1px solid #b7542d;
   border-radius: 5px;

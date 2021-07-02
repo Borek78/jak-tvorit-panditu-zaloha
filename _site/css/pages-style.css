@@ -1,3 +1,15 @@
+/*classes for cc-email-content-menu*/
+.show-cc-email-content-menu {
+  height: 320px;
+  margin-bottom: 50px;
+}
+
+.hide-cc-email-content-menu {
+  height: 0px;
+  margin-bottom: 10px;
+}
+
+/*classes for intro-content-menu*/
 .show-intro-content-menu {
   height: 212px;
   margin-bottom: 50px;
@@ -6,6 +18,10 @@
 .hide-intro-content-menu {
   height: 0px;
   margin-bottom: 10px;
+}
+
+.div-height {
+  height: 20px;
 }
 
 /*h5 styles */

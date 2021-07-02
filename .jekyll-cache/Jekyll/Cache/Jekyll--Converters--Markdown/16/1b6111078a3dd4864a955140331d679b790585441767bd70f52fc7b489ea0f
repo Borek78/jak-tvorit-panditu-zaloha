@@ -1,82 +1,8 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex, nofollow">
-  
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item">Novinky</a> <br /><br />
-      <a class="mobile-menu-item">Úvod</a><br /><br />
-      <a class="mobile-menu-item">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"�:<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
-<div id="cc-email-content-menu" class="hide-cc-email-content-menu">
+<div id="cc-email-content-menu" class="hide-cc-licence-content-menu">
   <div class="div-height"></div>
   <a class="content-item-1" href="#anchor-povoleni">Povolení</a>
   <a class="content-item-2" href="#anchor-vytvorene-titulky">Vytvořené titulky</a>
@@ -84,10 +10,10 @@
   <a class="content-item-4" href="#anchor-prekazka">Překážka</a>
   <a class="content-item-5" href="#anchor-dobry-dusledek">Dobrý důsledek</a>
   <a class="content-item-6" href="#anchor-odpoved">Odpověď</a>
-  <a class="content-item-7" href="#anchor-oznaceni-tretich-stran">Označení třetích stran</a>
-  <a class="content-item-8" href="#anchor-youtube">YouTube</a>
-  <a class="content-item-9" href="#anchor-reseni">Řešení</a>
-  <a class="content-item-10" href="#anchor-otazky-na-zaver">Otázky na závěr</a>
+  <a class="content-item-6" href="#anchor-oznaceni-tretich-stran">Označení třetích stran</a>
+  <a class="content-item-6" href="#anchor-youtube">YouTube</a>
+  <a class="content-item-6" href="#anchor-reseni">Řešení</a>
+  <a class="content-item-6" href="#anchor-otazky-na-zaver">Otázky na závěr</a>
 
   <a class="div-height"></a>
 </div>
@@ -386,15 +312,4 @@ k tomu potřeboval svolení BSZA.<br /><br /></p>
 
 <p>S pozdravem, Dalibor Pavlík</p>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   <script src="./js/script-pages.js"></script>
-  </body>
-
-</html>
+:ET
