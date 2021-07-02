@@ -1,4 +1,4 @@
-<div style="margin-top:40px">Dobrý den,</div><br>
+<div style="">Dobrý den,</div><br>
 
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
 týká mé činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.
@@ -23,7 +23,7 @@ používat videa z jejich YouTube kanálu.<br><br>
 To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
 české znění, a umístit je na můj YouTube kanál PANDITA CZ.
 
-<div id="vytvorene-titulky" markdown="1">
+<div id="anchor-vytvorene-titulky" markdown="1">
 ### VYTVOŘENÉ TITULKY
 </div>
 
@@ -42,16 +42,18 @@ Ke dnešnímu dni (28.5.2021) jsem vytvořil titulky k těmto videím:<br><br>
 yourself](https://www.youtube.com/watch?v=eu0RtEG6V4A&t=3020s)
 </span>
 
-<div id="autorsky-zakon" markdown="1">
+<div id="anchor-autorsky-zakon" markdown="1">
 ### AUTORSKÝ ZÁKON
 </div>
 
 [Autorský zákon (zákon č. 121/2000)](https://www.zakonyprolidi.cz/cs/2000-121) chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
-nechat tento vzkaz:<br><br>
+nechat tento vzkaz:
 
+<div class="citace">
 „Ahoj. Určitě neváhejte. Všechno, co jsem vytvořil, můžete použít, jak
 jen budete chtít. Nemusíte ani nikde uvádět moje jméno. Máte
-povolení moji práci použít.“<br><br>
+povolení moji práci použít.“
+</div>
 
 Jak to ale můžu udělat? <br><br>
 

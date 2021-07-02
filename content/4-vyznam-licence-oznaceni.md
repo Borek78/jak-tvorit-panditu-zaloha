@@ -63,6 +63,6 @@ informuje i Edinburská univerzita.<br><br>
 [https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/](https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/)<br><br>
 
 [http://www.d-ocs.is.ed.ac.uk/d-ocs/ede/How-to_apply_a_CC-licence-on_YouTube.pdf](http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_o
-n_YouTube.pdf)<br><br>
+n_YouTube.pdf)<br>
 
 </div>

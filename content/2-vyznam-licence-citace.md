@@ -34,7 +34,7 @@ Dá se to nějak vyřešit?<br><br>
 
 Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl? Nebo existuje nějaké další řešení?
 
-<div id="dobry-dusledek" markdown="1">
+<div id="anchor-dobry-dusledek" markdown="1">
 ### DOBRÝ DŮSLEDEK
 </div>
 
