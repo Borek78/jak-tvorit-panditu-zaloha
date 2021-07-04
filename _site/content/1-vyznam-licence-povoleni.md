@@ -21,7 +21,7 @@ používat videa z jejich YouTube kanálu.<br><br>
 </div>
 
 To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
-české znění, a umístit je na můj YouTube kanál PANDITA CZ.
+české znění a smím je umístit na můj YouTube kanál PANDITA CZ.
 
 <div id="anchor-vytvorene-titulky" markdown="1">
 ### VYTVOŘENÉ TITULKY
@@ -62,4 +62,4 @@ Jako ideální se mi zdálo použít ke zveřejnění mojí práce [licenci CC0
 autor vzdal všech práv, která souvisí s prací, kterou jsem vložil do
 tvorby titulků. To ale autorský zákon neumožnuje [ [§11- (4)](https://www.zakonyprolidi.cz/cs/2000-121#p11-4), [§26 - (1)](https://www.zakonyprolidi.cz/cs/2000-121#p26-1) ].<br><br>
 
-Dobře tuto situaci popisuje i následující pasáž z knihy Veřejné licence v České republice 2.0.<br>
+Dobře tuto situaci popisuje i následující pasáž z knihy [Veřejné licence v České republice 2.0.](https://is.muni.cz/publication/1203341/Myska_et_al._-_Verejne_licence_2.0_-_online.pdf)<br>

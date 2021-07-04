@@ -1,31 +1,15 @@
-/*classes for cc-email-content-menu*/
-.show-cc-email-content-menu {
-  height: 320px;
-  margin-bottom: 50px;
+.highlighted-text-blue {
+  color: #0000bbb0;
+
+  font-weight: bold;
 }
 
-.hide-cc-email-content-menu {
-  height: 0px;
-  margin-bottom: 10px;
-}
-
-/*classes for intro-content-menu*/
-.show-intro-content-menu {
-  height: 212px;
-  margin-bottom: 50px;
-}
-
-.hide-intro-content-menu {
-  height: 0px;
-  margin-bottom: 10px;
-}
-
-.div-height {
-  height: 20px;
+.highlighted-text-green {
+  color: green;
+  font-weight: bold;
 }
 
 /*h5 styles */
-
 h5 {
   font-size: 16px;
   color: #b7542d;

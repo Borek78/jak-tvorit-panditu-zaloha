@@ -1,0 +1,109 @@
+/*classes for cc-email-content-menu*/
+.show-cc-email-content-menu {
+  height: 320px;
+  margin-bottom: 50px;
+}
+
+.hide-cc-email-content-menu {
+  height: 0px;
+  margin-bottom: 10px;
+}
+
+/*classes for intro-content-menu*/
+.show-intro-content-menu {
+  height: 212px;
+  margin-bottom: 50px;
+}
+
+.hide-intro-content-menu {
+  height: 0px;
+  margin-bottom: 10px;
+}
+
+.div-height {
+  height: 20px;
+}
+
+.show-intro-content-menu {
+  height: 212px;
+  margin-bottom: 50px;
+}
+
+.hide-intro-content-menu {
+  height: 0px;
+  margin-bottom: 10px;
+}
+.div-height {
+  height: 20px;
+}
+
+/*intro-content*/
+
+.content-hover-class:hover {
+  background-color: #923a17;
+}
+
+/*intro*/
+div#intro-content-menu a.content-item-1,
+  div#intro-content-menu a.content-item-2,
+  div#intro-content-menu a.content-item-3,
+  div#intro-content-menu a.content-item-4,
+  div#intro-content-menu a.content-item-5,
+  div#intro-content-menu a.content-item-6,
+  /*cc-email*/
+  div#cc-email-content-menu a.content-item-1,
+  div#cc-email-content-menu a.content-item-2,
+  div#cc-email-content-menu a.content-item-3,
+  div#cc-email-content-menu a.content-item-4,
+  div#cc-email-content-menu a.content-item-5,
+  div#cc-email-content-menu a.content-item-6,
+  div#cc-email-content-menu a.content-item-7,
+  div#cc-email-content-menu a.content-item-8,
+  div#cc-email-content-menu a.content-item-9,
+  div#cc-email-content-menu a.content-item-10 {
+  padding-left: 20px;
+  line-height: 1.8;
+  font-family: "Raleway", sans-serif;
+  display: block;
+  color: white;
+  border-bottom: none;
+}
+
+#intro-content-button-wrapper {
+  width: 100%;
+  order: 1px solid blue;
+  overflow: hidden;
+}
+
+div#intro-content-menu,
+div#cc-email-content-menu {
+  background-color: #b7542d;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-family: "Raleway", sans-serif;
+  transition: height 0.5s, margin-bottom 0.5s;
+}
+
+#cc-email-content-button:hover,
+#intro-content-button:hover {
+  color: white;
+  background-color: #b7542d;
+}
+
+#intro-content-button,
+#cc-email-content-button {
+  width: 80px;
+  border: 1px solid #b7542d;
+  border-radius: 5px;
+  color: #b7542d;
+  background-color: rgba(255, 230, 0, 0.253);
+  text-align: center;
+  float: right;
+  margin-left: 460px;
+  line-height: 1;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}

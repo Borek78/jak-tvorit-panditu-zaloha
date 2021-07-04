@@ -8,9 +8,8 @@ upozornit na to, že nejsem vlastníkem předlohy, ke které jsem titulky
 vytvářel.<br><br>
 
 <div class="do-not-break-out" markdown="1">
-[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third
-\party_content](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third\_party_content)
-</div>
+[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content)
+</div><br>
 
 Zaujaly mě na ní tyto dvě části.<br>
 

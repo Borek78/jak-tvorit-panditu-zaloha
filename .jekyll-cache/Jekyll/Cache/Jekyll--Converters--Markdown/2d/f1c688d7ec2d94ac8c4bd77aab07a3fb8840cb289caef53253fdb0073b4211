@@ -1,4 +1,4 @@
-I"�:<div id="intro-content-button-wrapper">
+I"LF<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -44,7 +44,7 @@ používat videa z jejich YouTube kanálu.<br /><br /></p>
 </div>
 
 <p>To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
-české znění, a umístit je na můj YouTube kanál PANDITA CZ.</p>
+české znění a smím je umístit na můj YouTube kanál PANDITA CZ.</p>
 
 <div id="anchor-vytvorene-titulky">
   <h3 id="vytvoen-titulky">VYTVOŘENÉ TITULKY</h3>
@@ -85,7 +85,7 @@ povolení moji práci použít.“
 autor vzdal všech práv, která souvisí s prací, kterou jsem vložil do
 tvorby titulků. To ale autorský zákon neumožnuje [ <a href="https://www.zakonyprolidi.cz/cs/2000-121#p11-4">§11- (4)</a>, <a href="https://www.zakonyprolidi.cz/cs/2000-121#p26-1">§26 - (1)</a> ].<br /><br /></p>
 
-<p>Dobře tuto situaci popisuje i následující pasáž z knihy Veřejné licence v České republice 2.0.<br /></p>
+<p>Dobře tuto situaci popisuje i následující pasáž z knihy <a href="https://is.muni.cz/publication/1203341/Myska_et_al._-_Verejne_licence_2.0_-_online.pdf">Veřejné licence v České republice 2.0.</a><br /></p>
 
 <div class="citace">
 V souvislosti s licencemi Creative Commons se lze setkat ještě
@@ -111,17 +111,17 @@ str.55<br />
 </div>
 
 <p>Budu tedy pro moji činnost používat licenci CC „Uveďte autora“ 4.0.
-Název této licence je překládán i jako CC Uveďtě původ 4.0.</p>
+Název této licence je překládán i jako <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC Uveďtě původ 4.0.</a></p>
 
 <div id="anchor-prekazka">
   <h3 id="pekka">PŘEKÁŽKA</h3>
 </div>
 
-<p>Problém je, že nejsem vlastníkem videí, ke kterým jsem titulky vytvořil. Vlastníkem těchto videí je Buddhistická společnost Západní Austrálie. Proto nemůžu být ani vlastníkem titulků, které jsem vytvořil. A proto je ani nemůžu publikovat pod licencí CC Uveďte původ 4.0. <br /><br /></p>
+<p>Nejsem vlastníkem videí, ke kterým jsem titulky vytvořil. Vlastníkem těchto videí je Buddhistická společnost Západní Austrálie. Proto nemůžu být ani vlastníkem celého textu českých titulků. A proto nemůžu celý text těchto titulků publikovat pod licencí CC Uveďte původ 4.0. <br /><br /></p>
 
 <p>Dá se to nějak vyřešit?<br /><br /></p>
 
-<p>Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl? Nebo existuje nějaké další řešení?</p>
+<p>Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl?</p>
 
 <div id="anchor-dobry-dusledek">
   <h3 id="dobr-dsledek">DOBRÝ DŮSLEDEK</h3>
@@ -140,35 +140,49 @@ garantováno zveřejněním mojí práce pod licencí CC Uveďte původ
   <h3 id="odpov">ODPOVĚĎ</h3>
 </div>
 
-<p>Nyní se pokusím na moji otázku odpovědět.<br /></p>
+<p>Nyní se pokusím na moji otázku odpovědět.<br /><br /></p>
 
 <p>Na této stránce jsem našel následující text.<br /><br /></p>
 
 <div class="do-not-break-out">
-  <p><a href="https://creativecommons.org/faq/#may-i-apply-a-cc-license-to-mywork-if-it-incorporates-material-used-under-fair-use-or-anotherexception-or-limitation-to-copyright">https://creativecommons.org/faq/#may-i-apply-a-cc-license-to-mywork-if-it-incorporates-material-used-under-fair-use-or-anotherexception-or-limitation-to-copyright</a></p>
+  <p><a href="https://creativecommons.org/faq/#if-i-take-a-photograph-of-another-work-that-is-in-the-public-domain-can-i-apply-a-cc-license-to-my-photo">https://creativecommons.org/faq/#may-i-apply-a-cc-license-to-my-work-if-it-incorporates-material-used-under-fair-use-or-another-exception-or-limitation-to-copyright</a></p>
 </div>
 
 <div class="citace">
-„May I apply a CC license to my work if it incorporates material
+  <p>„May I apply a CC license to my work if it incorporates material
 used under fair use or another exception or limitation to
-copyright?<br /><br />
+copyright?<br /><br /></p>
 
-Yes, but it is important to prominently mark any third party
+  <p><span class="highlighted-text-green">Yes, but it is important to prominently mark any third party
 material you incorporate into your work so reusers do not think
-the CC license applies to that material. The CC license only
-applies to the rights you have in the work. For example, if your CClicensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by
-others, see our page about marking third party content. Read more
-considerations for licensors here.“<br />
+the CC license applies to that material.</span> <span class="highlighted-text-blue"> The CC license only
+applies to the rights you have in the work.</span> For example, if your CC licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by
+others, <a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content">see our page about marking third party content.</a>Read more
+considerations for licensors here.“<br /></p>
 
 </div>
 
-<p>Tady se mi zdá jako klíčová tato věta: „The CC license only applies to
-the rights you have in the work.“ <br /><br /></p>
-
 <p>To by opravdu mělo znamenat, že moji práci na titulcích můžu
-publikovat pod licencí CC Uveďtě původ 4.0. Jen musím dostatečně
+publikovat pod licencí CC Uveďtě původ 4.0.[viz. část, která je zvýrazněná modře] Jen musím dostatečně
 upozornit na to, že nejsem vlastníkem předlohy, ke které jsem titulky
-vytvořil.<br /></p>
+vytvořil.[viz. část, která je zvýrazněná zeleně]<br /><br /></p>
+
+<p>Na této stránce jsem našel podrobnější informace k možnosti publikovat pod licencí pouze práci, kterou jsem do tvorby titulků vložil.<br /><br /></p>
+
+<div class="do-not-break-out">
+  <p><a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content">https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content</a></p>
+</div>
+
+<div class="citace">
+CC licenses are designed to let others know how they may use a work without infringing copyright. <span class="highlighted-text-green"> Sometimes, it may be helpful for a licensor to offer users guidance beyond the terms of the license. CC licensors can use notices and marking to inform users of any limitations on the application of the CC license to their work.</span> Users should carefully observe any notices or marking by the licensor.<br /><br />
+
+<span class="highlighted-text-blue">When a creator or rightsholder applies a Creative Commons license to a work, the license automatically applies to any copyrights the licensor has in the entire work. Ideally, licensors will have all the rights necessary to license a work, since they otherwise potentially expose users to liability. </span><span class="highlighted-text-green">Alternatively, licensors that do not have all the necessary rights can inform users with notice statements and/or marking that explains the limitations on the license, warning, for instance, that a particular element of a work is not freely available or that additional rights clearance may be necessary.</span> Some licensors may also wish to exempt certain portions of a work from the application of the CC license. For instance, a creator may wish to apply a CC license to one chapter of a book. Creative Commons licenses are flexible in their application, and licensors may use them as they find appropriate. To avoid confusion or misunderstanding on the part of users, however, it is important to mark a work clearly to identify portions not subject to the CC license.
+
+</div>
+
+<p>Z modře zvýrazněných částí je zřejmé, že CC licence se nemusí vztahovat jen k celému dílu. CC licence lze aplikovat i pouze na tu část autorských práv, která souvisí s prací jednoho z autorů. A to je dobrá zpráva! To znamená, že za podmínek licene CC Uveďte původ 4.0 můžu publikovat pouze práci, kteoru jsem vložil do tvorby titulků.<br /><br /></p>
+
+<p>Pouze bych měl nabyvatele licence (tzn. kohokoli, kdo by někdy v budoucnosti mohl chtít moji práci použít) informovat o tom, na kterou část díla se CC licence vztahuje.</p>
 
 <div id="anchor-oznaceni-tretich-stran">
   <h3 id="oznaen-tetch-stran">OZNAČENÍ TŘETÍCH STRAN</h3>
@@ -180,9 +194,9 @@ upozornit na to, že nejsem vlastníkem předlohy, ke které jsem titulky
 vytvářel.<br /><br /></p>
 
 <div class="do-not-break-out">
-  <p><a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third\_party_content">https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third
-\party_content</a></p>
+  <p><a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content">https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content</a></p>
 </div>
+<p><br /></p>
 
 <p>Zaujaly mě na ní tyto dvě části.<br /></p>
 
