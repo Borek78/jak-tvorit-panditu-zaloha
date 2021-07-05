@@ -57,7 +57,6 @@ O možnosti specifikovat CC licence v popisku YouTube videa
 informuje i Edinburská univerzita.<br><br>
 
 <div class="do-not-break-out" markdown="1">
-[https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/](https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/)<br><br>
 
 [https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/](https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/)<br><br>
 
