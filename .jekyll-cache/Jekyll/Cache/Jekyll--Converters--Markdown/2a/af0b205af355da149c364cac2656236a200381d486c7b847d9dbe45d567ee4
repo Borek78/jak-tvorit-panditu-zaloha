@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"�\<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -314,14 +241,11 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
 </ol>
 
 <div class="citace">
-  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
+  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnost Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
 
-  <p>Odkaz na zkrácený text licence najdete na adrese:<br /></p>
-
-  <div class="do-not-break-out">
-    <p>https://creativecommons.org/licenses/by/4.0/deed.cs</p>
-  </div>
-  <p><br /><br /></p>
+  <p>Odkaz na zkrácený text licence najdete na adrese:
+https://creativecommons.org/licenses/by/4.0/deed.cs
+<br /><br /></p>
 
   <p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
 
@@ -342,50 +266,43 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
 <p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál na google disk, který je a bude veřejně dostupný prostřednictvím úvodní stránky k tomuto webu.
 <br /><br /></p>
 
-<div class="citace">
-  <p>Toto je technická poznámka. Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
+<p>Toto je technická poznámka. Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
 <br /><br /></p>
 
-  <p>Součástí všech tří videí jsou jak „měkké“ titulky, tak titulky „natvrdo“. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
-
-</div>
+<p>Součástí všech tří videí jsou jak „měkké“ titulky, tak titulky „natvrdo“. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.
+<br /><br /></p>
 
 <ol>
   <li>Na výše zmíněný google disk jsem nahrál soubor, ve kterém jsou informace o možnosti titulky použít.<br /><br /></li>
 </ol>
 
-<div class="citace">
-  <p>Oprávnění k použití za podmínek licence
+<p>Oprávnění k použití za podmínek licence
 CC Uveďte původ 4.0. Mezinárodní<br /><br /></p>
 
-  <p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
+<p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
 
-  <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je licencována za podmínek licence
+<p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je licencována za podmínek licence
 CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
 
-  <p>Odkaz na zkrácený text licence najdete na adrese:</p>
-
-  <div class="do-not-break-out">
-    <p>https://creativecommons.org/licenses/by/4.0/deed.cs</p>
-  </div>
-
-  <p><br /><br />
-Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
-
-  <ul>
-    <li>
-      <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
+<p>Odkaz na zkrácený text licence najdete na adrese:
+https://creativecommons.org/licenses/by/4.0/deed.cs
 <br /><br /></p>
-    </li>
-    <li>
-      <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
+
+<p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
+
+<ul>
+  <li>
+    <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
 <br /><br /></p>
-    </li>
-  </ul>
+  </li>
+  <li>
+    <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
+<br /><br /></p>
+  </li>
+</ul>
 
-  <p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
-
-</div>
+<p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.
+<br /><br /></p>
 
 <p>To znamená, že informace o CC licenci a možnosti titulky použít je k dispozici na několika místech: v měkkých titulcích na youtube; na veřejně dostupném google disku, kde je informace o CC licenci k dispozici:<br /><br /></p>
 
@@ -399,21 +316,14 @@ Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která
   <li>Do popisku všech tří videí, které jsou na mém YouTube kanálu a ke kterým jsem vytvořil české titulky, jsem přidal tento text.</li>
 </ol>
 
-<div class="citace">
-  <p>//LICENCE K ČESKÝM TITULKŮM
+<p>//LICENCE K ČESKÝM TITULKŮM
 Podrobné informace o možnosti použít české titulky k tomuto videu najdete na:<br /><br /></p>
 
-  <div class="do-not-break-out">
-    <p>https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</p>
-  </div>
-
-</div>
+<p>https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</p>
 
 <p>Nedal jsem tedy do popisku k videím celý text s informací o možnosti titulky použít. Zdálo se mi to už zbytečné. Určitě bych to ale udělat mohl.</p>
 
-<div id="anchor-otazka-na-zaver">
-  <h3 id="otzka-na-zvr">OTÁZKA NA ZÁVĚR</h3>
-</div>
+<h3 id="otázka-na-závěr">OTÁZKA NA ZÁVĚR</h3>
 
 <p>Můžu si teď myslet, že je moje práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?<br /><br /></p>
 
@@ -421,17 +331,81 @@ Podrobné informace o možnosti použít české titulky k tomuto videu najdete 
 
 <p>S pozdravem, Dalibor Pavlík <br /><br /></p>
 
+<div id="anchor-reseni">
+  <h3 id="een-1">ŘEŠENÍ</h3>
+</div>
+
+<p>K výše zmíněným videím s titulky jsem přidal do popisku videa tento
+text: <br /></p>
+
+<div class="citace">
+  <h5 style="text-align:left">//𝐂𝐂-𝐁𝐘 - LICENCE K ČESKÝM TITULKŮM</h5>
+
+  <p>Autorem českých titulků k tomuto videu je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0.<br /><br /></p>
+
+  <div class="do-not-break-out">
+    <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
+  </div>
+  <p><br /></p>
+
+  <p>Podrobnější informace o možnosti tyto české titulky použít najdete na: <br /><br /></p>
+
+  <div class="do-not-break-out">
+    <p><a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</a></p>
+  </div>
+</div>
+
+<p>Ve složce, na kterou tento text odkazuje je pak soubor podrobnými
+instrukcemi k použití titulků.</p>
+
+<div class="citace">
+  <h5> OPRÁVNĚNÍ K POUŽITÍ ZA PODMÍNEK LICENCE
+CC UVEĎTE PŮVOD 4.0. MEZINÁRODNÍ</h5>
+
+  <p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k
+videím, která jsou ve vlastnictví Buddhistické společnosti Západní
+Austrálie.<br /><br /></p>
+
+  <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je
+licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
+
+  <p>Odkaz na zkrácený text licence najdete na adrese:<br /><br /></p>
+
+  <div class="do-not-break-out">
+    <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
+  </div>
+  <p><br /></p>
+
+  <p>Licence se tedy nevztahuje na celý text titulků, vztahuje se pouze k
+práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud
+někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
+
+  <p>• k tomu musí mít souhlas Buddhistické společnosti Západní
+Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky
+vytvořeny.<br /><br /></p>
+
+  <p>• nemusí mít souhlas autora českých titulků, který je podle
+předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho
+jméno.<br /><br /></p>
+
+  <p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
+
+</div>
+
+<div id="anchor-otazky-na-zaver">
+  <h3 id="otzky-na-zvr">OTÁZKY NA ZÁVĚR</h3>
+</div>
+
+<p>Můžu pod licencí CC Uveďtě původ 4.0. licencovat pouze práci,
+kterou jsem vložil do tvorby titulků? Pokud ano, můžu to udělat
+způsobem, který jsem popsal?<br /><br /></p>
+
+<p>V případě, že to možné není, můžu pod licencí CC Uveďte původ 4.0
+Mezinárodní zveřejnit celý text titulků? Určitě rozumím tomu, že bych
+k tomu potřeboval svolení BSZA.<br /><br /></p>
+
+<p>S pozdravem, Dalibor Pavlík</p>
+
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET
