@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I" [<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -303,9 +230,7 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
   <p>http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf</p>
 </div>
 
-<div id="anchor-reseni">
-  <h3 id="een">ŘEŠENÍ</h3>
-</div>
+<h3 id="řešení">ŘEŠENÍ</h3>
 
 <p>Nyní se pokusím využít všechno, co jsem se dosud o CC licencích naučil. Udělám teď několik kroků, o kterých si myslím, že by mohly vést k tomu, že moji práci na titulcích zveřejním za podmínek licence CC Uveďte původ 4.0 Mezinárodní. <br /><br /></p>
 
@@ -332,79 +257,60 @@ https://creativecommons.org/licenses/by/4.0/deed.cs
   </li>
 </ul>
 
-<p>Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: Čtyři způsoby, jak se pustit (55:31); Učíme se být v klidu sami se sebou(58:12); Inteligence není moudrost (07:07).
-<br /><br /></p>
+<p>Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: Čtyři způsoby, jak se pustit (55:31); Učíme se být v klidu sami se sebou(58:12); Inteligence není moudrost (07:07).</p>
 
-<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál na google disk, který je a bude veřejně dostupný prostřednictvím úvodní stránky k tomuto webu.
-<br /><br /></p>
+<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál na google disk, který je a bude veřejně dostupný prostřednictvím úvodní stránky k tomuto webu.</p>
 
-<p>Toto je technická poznámka. Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
-<br /><br /></p>
+<p>Toto je technická poznámka. Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.</p>
 
-<p>Součástí všech tří videí jsou jak „měkké“ titulky, tak titulky „natvrdo“. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.
-<br /><br /></p>
+<p>Součástí všech tří videí jsou jak „měkké“ titulky, tak titulky „natvrdo“. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
 
 <ol>
-  <li>Na výše zmíněný google disk jsem nahrál soubor, ve kterém jsou informace o možnosti titulky použít.<br /><br /></li>
+  <li>Na výše zmíněný google disk jsem nahrál soubor, ve kterém jsou informace o možnosti titulky použít.</li>
 </ol>
 
 <p>Oprávnění k použití za podmínek licence
-CC Uveďte původ 4.0. Mezinárodní<br /><br /></p>
+CC Uveďte původ 4.0. Mezinárodní</p>
 
-<p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
+<p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.</p>
 
 <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je licencována za podmínek licence
-CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
+CC Uveďtě původ 4.0. Mezinárodní.</p>
 
 <p>Odkaz na zkrácený text licence najdete na adrese:
-https://creativecommons.org/licenses/by/4.0/deed.cs
-<br /><br /></p>
+https://creativecommons.org/licenses/by/4.0/deed.cs</p>
 
-<p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
+<p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:</p>
 
-<ul>
-  <li>
-    <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
-<br /><br /></p>
-  </li>
-  <li>
-    <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
-<br /><br /></p>
-  </li>
-</ul>
+<p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.</p>
 
-<p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.
-<br /><br /></p>
+<p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.</p>
 
-<p>To znamená, že informace o CC licenci a možnosti titulky použít je k dispozici na několika místech: v měkkých titulcích na youtube; na veřejně dostupném google disku, kde je informace o CC licenci k dispozici:<br /><br /></p>
+<p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
 
-<ul>
-  <li>v každémv každém ze tří souborů s titulky</li>
-  <li>v souboru, který je určen speciálně pro text s informací o CC licenci
-<br /><br /></li>
-</ul>
+<p>To znamená, že informace o CC licenci a možnosti titulky použít je k dispozici na několika místech: v měkkých titulcích na youtube; na veřejně dostupném google disku, kde je informace o CC licenci k dispozici:
+v každémv každém ze tří souborů s titulky
+v souboru, který je určen speciálně pro text s informací o CC licenci</p>
 
 <ol>
   <li>Do popisku všech tří videí, které jsou na mém YouTube kanálu a ke kterým jsem vytvořil české titulky, jsem přidal tento text.</li>
 </ol>
 
 <p>//LICENCE K ČESKÝM TITULKŮM
-Podrobné informace o možnosti použít české titulky k tomuto videu najdete na:<br /><br /></p>
-
-<p>https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</p>
+Podrobné informace o možnosti použít české titulky k tomuto videu najdete na:
+https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</p>
 
 <p>Nedal jsem tedy do popisku k videím celý text s informací o možnosti titulky použít. Zdálo se mi to už zbytečné. Určitě bych to ale udělat mohl.</p>
 
-<h3 id="otázka-na-závěr">OTÁZKA NA ZÁVĚR</h3>
+<p>OTÁZKA NA ZÁVĚR
+Můžu si teď myslet, že je moje práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?</p>
 
-<p>Můžu si teď myslet, že je moje práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?<br /><br /></p>
+<p>Jestli je někde v mých úvahách chyba, určitě budu rád za vaši zpětnou vazbu, radu nebo nějaký tip.</p>
 
-<p>Jestli je někde v mých úvahách chyba, určitě budu rád za vaši zpětnou vazbu, radu nebo nějaký tip.<br /><br /></p>
-
-<p>S pozdravem, Dalibor Pavlík <br /><br /></p>
+<p>S pozdravem, Dalibor Pavlík</p>
 
 <div id="anchor-reseni">
-  <h3 id="een-1">ŘEŠENÍ</h3>
+  <h3 id="een">ŘEŠENÍ</h3>
 </div>
 
 <p>K výše zmíněným videím s titulky jsem přidal do popisku videa tento
@@ -480,15 +386,4 @@ k tomu potřeboval svolení BSZA.<br /><br /></p>
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET

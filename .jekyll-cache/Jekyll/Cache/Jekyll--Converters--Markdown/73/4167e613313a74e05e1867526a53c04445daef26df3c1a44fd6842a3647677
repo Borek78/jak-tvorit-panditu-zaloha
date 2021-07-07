@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"kS<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -285,9 +212,7 @@ There is no one, right way to give notice, and different situations may require 
 <p>Na následující stránce jsem našel zmínku o tom, že informaci o
 CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /><br /></p>
 
-<div class="do-not-break-out">
-  <p>https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my-material</p>
-</div>
+<p>https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my-material</p>
 
 <div class="citace">
 „For third-party platforms: Many media platforms like Flickr, YouTube, and SoundCloud have built-in Creative Commons capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those plattforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description of your content.“
@@ -295,116 +220,80 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
 
 <p>O možnosti uveśt informaci o CC licencích v popisku YouTube videa informuje i Edinburská univerzita.<br /><br /></p>
 
-<div class="do-not-break-out">
-  <p>https://open.ed.ac.uk/how-to-guides/adding-a-creative-commons-licence-to-your-resource/applying-a-cc-licence-on-youtube/</p>
+<p>https://open.ed.ac.uk/how-to-guides/adding-a-creative-commons-licence-to-your-resource/applying-a-cc-licence-on-youtube/</p>
+
+<p>http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf</p>
+
+<div id="anchor-oznaceni-tretich-stran">
+  <h3 id="oznaen-tetch-stran">OZNAČENÍ TŘETÍCH STRAN</h3>
 </div>
 
+<p>Na této stránce jsem pak našel bližší informace k tomu, jakým
+způsobem bych měl moji práci označit. Nabyvatele licence tak můžu
+upozornit na to, že nejsem vlastníkem předlohy, ke které jsem titulky
+vytvářel.<br /><br /></p>
+
 <div class="do-not-break-out">
-  <p>http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf</p>
+  <p><a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content">https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content</a></p>
+</div>
+<p><br /></p>
+
+<p>Zaujaly mě na ní tyto dvě části.<br /></p>
+
+<div class="citace">
+„Using third party content in your work that is not offered under
+the same license terms as the rest of your work may require
+additional marking. If you include works offered under other Creative
+Commons licenses, additional marking may be required for attribution.
+If you include third party content in your work that may not be
+available for reuse under the same terms as the rest of the work, you
+should warn users and mark it with any additional information
+that may be helpful. CC offers additional explanation and tips on
+giving thorough notices and marking for works.“ <br />
+</div>
+
+<div class="citace">
+„CC licenses are designed to let others know how they may use a
+work without infringing copyright. Sometimes, it may be helpful for a
+licensor to offer users guidance beyond the terms of the license.
+CC licensors can use notices and marking to inform users of any
+limitations on the application of the CC license to their work.“
+</div>
+
+<div id="anchor-youtube">
+  <h3 id="youtube">YOUTUBE</h3>
+</div>
+
+<p>Moje práce na titulcích, kterou chci zveřejnit pod licencí CC Uveďte
+původ 4.0 je k dispozici na Youtube. Informaci o CC licenci k českým
+8titulkům můžu uvést v popisku každého videa. To jsem se dočetl na
+následující stránce.<br /><br /></p>
+
+<div class="do-not-break-out">
+  <p><a href="https://creativecommons.org/faq/#how-do-i-apply-a-creativecommons-license-to-my-material">https://creativecommons.org/faq/#how-do-i-apply-a-creativecommons-license-to-my-material</a><br /></p>
+</div>
+
+<div class="citace">
+„For third-party platforms: Many media platforms like Flickr,
+YouTube, and SoundCloud have built-in Creative Commons
+capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those plattforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description
+of your content.“<br />
+</div>
+
+<p>O možnosti specifikovat CC licence v popisku YouTube videa
+informuje i Edinburská univerzita.<br /><br /></p>
+
+<div class="do-not-break-out">
+
+  <p><a href="https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/">https://open.ed.ac.uk/how-to-guides/adding-a-creative-commonslicence-to-your-resource/applying-a-cc-licence-on-youtube/</a><br /><br /></p>
+
+  <p><a href="http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_o
+n_YouTube.pdf">http://www.d-ocs.is.ed.ac.uk/d-ocs/ede/How-to_apply_a_CC-licence-on_YouTube.pdf</a><br /></p>
+
 </div>
 
 <div id="anchor-reseni">
   <h3 id="een">ŘEŠENÍ</h3>
-</div>
-
-<p>Nyní se pokusím využít všechno, co jsem se dosud o CC licencích naučil. Udělám teď několik kroků, o kterých si myslím, že by mohly vést k tomu, že moji práci na titulcích zveřejním za podmínek licence CC Uveďte původ 4.0 Mezinárodní. <br /><br /></p>
-
-<ol>
-  <li>V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br /><br /></li>
-</ol>
-
-<p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnost Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
-
-<p>Odkaz na zkrácený text licence najdete na adrese:
-https://creativecommons.org/licenses/by/4.0/deed.cs
-<br /><br /></p>
-
-<p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
-
-<ul>
-  <li>
-    <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
-<br /><br /></p>
-  </li>
-  <li>
-    <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
-<br /><br /></p>
-  </li>
-</ul>
-
-<p>Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: Čtyři způsoby, jak se pustit (55:31); Učíme se být v klidu sami se sebou(58:12); Inteligence není moudrost (07:07).
-<br /><br /></p>
-
-<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál na google disk, který je a bude veřejně dostupný prostřednictvím úvodní stránky k tomuto webu.
-<br /><br /></p>
-
-<p>Toto je technická poznámka. Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
-<br /><br /></p>
-
-<p>Součástí všech tří videí jsou jak „měkké“ titulky, tak titulky „natvrdo“. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.
-<br /><br /></p>
-
-<ol>
-  <li>Na výše zmíněný google disk jsem nahrál soubor, ve kterém jsou informace o možnosti titulky použít.<br /><br /></li>
-</ol>
-
-<p>Oprávnění k použití za podmínek licence
-CC Uveďte původ 4.0. Mezinárodní<br /><br /></p>
-
-<p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
-
-<p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je licencována za podmínek licence
-CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
-
-<p>Odkaz na zkrácený text licence najdete na adrese:
-https://creativecommons.org/licenses/by/4.0/deed.cs
-<br /><br /></p>
-
-<p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
-
-<ul>
-  <li>
-    <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
-<br /><br /></p>
-  </li>
-  <li>
-    <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
-<br /><br /></p>
-  </li>
-</ul>
-
-<p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.
-<br /><br /></p>
-
-<p>To znamená, že informace o CC licenci a možnosti titulky použít je k dispozici na několika místech: v měkkých titulcích na youtube; na veřejně dostupném google disku, kde je informace o CC licenci k dispozici:<br /><br /></p>
-
-<ul>
-  <li>v každémv každém ze tří souborů s titulky</li>
-  <li>v souboru, který je určen speciálně pro text s informací o CC licenci
-<br /><br /></li>
-</ul>
-
-<ol>
-  <li>Do popisku všech tří videí, které jsou na mém YouTube kanálu a ke kterým jsem vytvořil české titulky, jsem přidal tento text.</li>
-</ol>
-
-<p>//LICENCE K ČESKÝM TITULKŮM
-Podrobné informace o možnosti použít české titulky k tomuto videu najdete na:<br /><br /></p>
-
-<p>https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</p>
-
-<p>Nedal jsem tedy do popisku k videím celý text s informací o možnosti titulky použít. Zdálo se mi to už zbytečné. Určitě bych to ale udělat mohl.</p>
-
-<h3 id="otázka-na-závěr">OTÁZKA NA ZÁVĚR</h3>
-
-<p>Můžu si teď myslet, že je moje práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?<br /><br /></p>
-
-<p>Jestli je někde v mých úvahách chyba, určitě budu rád za vaši zpětnou vazbu, radu nebo nějaký tip.<br /><br /></p>
-
-<p>S pozdravem, Dalibor Pavlík <br /><br /></p>
-
-<div id="anchor-reseni">
-  <h3 id="een-1">ŘEŠENÍ</h3>
 </div>
 
 <p>K výše zmíněným videím s titulky jsem přidal do popisku videa tento
@@ -480,15 +369,4 @@ k tomu potřeboval svolení BSZA.<br /><br /></p>
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET
