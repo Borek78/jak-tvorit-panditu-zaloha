@@ -2,18 +2,19 @@
 ### POZNÁMKA PRO UŽIVATELE
 </div>
 
-Každé dílo, které je publikováno pod licencí CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. V případě wikipedie je tato poznámka velmi stručná (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):<br><br>
+Každé dílo, které je publikováno pod licencí CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. V případě wikipedie je tato poznámka velmi stručná (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):
 
 <div class="citace">
-Text je dostupný pod licencí Creative Commons Uveďte autora – Zachovejte licenci, případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.
+Text je dostupný pod licencí Creative Commons Uveďte autora – Zachovejte licenci , případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.
 </div>
 
-I já bych měl k souborům s titulky připojit poznámku, ve kterém budu potencionální uživatele informovat o tom, za jakých podmínek můžou moji prací použít. A jak by taková poznámka měla vypadat? O tom jsem se více dozvěděl na následujích stránkách. Jejich relevantní části opět cituji.<br><br>
+I já bych měl k souborům s titulky připojit poznámku, ve které budu potencionální uživatele informovat o tom, za jakých podmínek můžou moji prací použít. A jak by taková poznámka měla vypadat? O tom jsem se více dozvěděl na následujích stránkách. Jejich relevantní části opět cituji.<br><br>
 
-Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jako poznámku si napíše. Jen je z těchto pasáží zřetelný důraz na to, že by potencionální uživatel mojí práce by měl vědět, za jakých podmínek může moji práci použít.<br>
+Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jako poznámku si napíše. Jen je z těchto pasáží zřetelný důraz na to, že by potencionální uživatel mojí práce by měl vědět, za jakých podmínek může moji práci použít.
+<br><br>
 
 <div class="do-not-break-out" markdown="1">
-https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Notices_and_marking
+[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Notices_and_marking](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Notices_and_marking)
 </div>
 
 <div class="citace">
@@ -21,17 +22,19 @@ https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_conte
 </div>
 
 <div class="do-not-break-out" markdown="1">
-https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Two_common_marking_pracices
-</div>
+[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Two_common_marking_pracices](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Two_common_marking_pracices)
+</div><br>
 
+<div style="text-align: center">
 [citovaná pasáž je až v druhém odstavci]
+</div>
 
 <div class="citace">
 As a best practice, licensors should give clear and effective notices. Notice may be in any form the licensor chooses and should clearly explain what rights and substantive portions of a work are and are not licensed.
 </div>
 
 <div class="do-not-break-out" markdown="1">
-https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Tips_for_a_clear_and_informative_notice
+[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Tips_for_a_clear_and_informative_notice](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Tips_for_a_clear_and_informative_notice)
 </div>
 
 <div class="citace">
@@ -46,7 +49,7 @@ Na následující stránce jsem našel zmínku o tom, že informaci o
 CC licencích je možné vkládat i do popisků každého videa na YouTube.<br><br>
 
 <div class="do-not-break-out" markdown="1">
-https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my-material
+[https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my-material](https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my-material)
 </div>
 
 <div class="citace">
@@ -56,9 +59,9 @@ https://creativecommons.org/faq/#how-do-i-apply-a-creative-commons-license-to-my
 O možnosti uveśt informaci o CC licencích v popisku YouTube videa informuje i Edinburská univerzita.<br><br>
 
 <div class="do-not-break-out" markdown="1">
-https://open.ed.ac.uk/how-to-guides/adding-a-creative-commons-licence-to-your-resource/applying-a-cc-licence-on-youtube/
-</div>
+[https://open.ed.ac.uk/how-to-guides/adding-a-creative-commons-licence-to-your-resource/applying-a-cc-licence-on-youtube/](https://open.ed.ac.uk/how-to-guides/adding-a-creative-commons-licence-to-your-resource/applying-a-cc-licence-on-youtube/)
+</div><br>
 
 <div class="do-not-break-out" markdown="1">
-http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf
+[http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf](http://www.docs.is.ed.ac.uk/docs/ede/How_to_apply_a_CC_licence_on_YouTube.pdf)
 </div>

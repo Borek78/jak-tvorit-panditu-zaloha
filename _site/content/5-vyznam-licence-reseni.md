@@ -4,7 +4,8 @@
 
 Nyní se pokusím využít všechno, co jsem se dosud o CC licencích naučil. Udělám teď několik kroků, o kterých si myslím, že by mohly vést k tomu, že moji práci na titulcích zveřejním za podmínek licence CC Uveďte původ 4.0 Mezinárodní. <br><br>
 
-1. V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br><br>
+<span class="ircle underline"> První krok </span><br>
+V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br><br>
 
 <div class="citace" markdown="1" >
 Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br><br>

@@ -1,3 +1,25 @@
+.underline {
+  border-bottom: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.circle {
+  border: 1px solid black;
+  border-radius: 50%;
+
+  display: inline-block;
+  padding: 5px;
+  /*padding-left: 10px;
+  padding-right: 10px;*/
+  height: 10px;
+  width: 15px;
+  padding: 0px;
+  margin: 0px;
+  padding-left: 5px;
+  padding-bottom: 12px;
+}
+
 .highlighted-text-blue {
   color: #0000bbb0;
 
