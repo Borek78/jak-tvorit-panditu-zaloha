@@ -18,7 +18,7 @@ Jak se tedy vyrovnat s rizikem, že YouTube kanál PANDITA CZ bude jednoho dne s
 
 Řešením může být zřízení cloudového úložiště, na které by všichni dobrovolníci mohli ukládat svoje překlady. Stejně tak by bylo toto úložiště k dispozici i pro jakékoli zvukové stopy, které můžou vzniknout jak v profesionálních studiích, tak i v domácích podmínkách. Z tohoto úložiště by pak mohl práci všech dobrovlníků jednoduše zálohovat každý člen české buddhistické komunity. <br><br>
 
-Vhodné cloudové úložiště pro tyto účely jsem nemusel hledat dlouho. Úplně postačí [obyčejný Google Disc, který mám k dispozici k jednomu z mých emailových účtu](https://drive.google.com/drive/u/0/my-drive) Do složky DALIBOR PAVLÍK na tomto google disku jsem již uložil titulky k videím Ajahna Brahma. Stejně tak jsou na něm ke stažení k dispozici nahrávky z meditačního kurzu s Visu Teoh. <br><br>
+Vhodné cloudové úložiště pro tyto účely jsem nemusel hledat dlouho. Úplně postačí [obyčejný Google Disc, který mám k dispozici k jednomu z mých emailových účtu](https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj?usp=sharing) Do složky DALIBOR PAVLÍK na tomto google disku jsem již uložil titulky k videím Ajahna Brahma. Stejně tak jsou na něm ke stažení k dispozici nahrávky z meditačního kurzu s Visu Teoh. <br><br>
 
 Pro účely těchto stránek budu pro tento google disk používat název Dhamma Google Disk a zkratku DGD.<br><br>
 

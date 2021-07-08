@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## Povolení k užívání<br><br>
+<h2 style="margin-bottom:70px">Povolení k užívání videí, nahrávek a titulků</h2>
 
 K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br>
 
