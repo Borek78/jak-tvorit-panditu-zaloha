@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"6Z<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -97,7 +24,7 @@
 <p><br /></p>
 
 <p>jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
-týká mojí činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.</p>
+týká mé činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.</p>
 
 <div id="anchor-povoleni">
   <h3 id="povolen">POVOLENÍ</h3>
@@ -116,14 +43,14 @@ používat videa z jejich YouTube kanálu.<br /><br /></p>
   <p><a href="https://www.youtube.com/user/BuddhistSocietyWA">https://www.youtube.com/user/BuddhistSocietyWA</a><br /><br /></p>
 </div>
 
-<p>To znamená, že mám dovoleno ta videa stáhnout, vytvořit k nim titulky nebo
+<p>To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
 české znění a smím je umístit na můj YouTube kanál PANDITA CZ.</p>
 
 <div id="anchor-vytvorene-titulky">
   <h3 id="vytvoen-titulky">VYTVOŘENÉ TITULKY</h3>
 </div>
 
-<p>Ke dnešnímu dni (8.7.2021) jsem vytvořil titulky k těmto videím:<br /><br /></p>
+<p>Ke dnešnímu dni (28.5.2021) jsem vytvořil titulky k těmto videím:<br /><br /></p>
 
 <p><span class="margin-bottom-negative">
 <a href="https://www.youtube.com/watch?v=pkH7Qick84E">Čtyři způsoby, jak se pustit</a> - <a href="https://www.youtube.com/watch?v=USC5MJVZLy8&amp;t=824s">Four Ways of Letting Go</a><br /><br />
@@ -213,7 +140,7 @@ garantováno zveřejněním mojí práce pod licencí CC Uveďte původ
   <h3 id="odpov">ODPOVĚĎ</h3>
 </div>
 
-<p>Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a na které nikoli [viz. nezvýrazněné části].<br /><br /></p>
+<p>Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím nabyvatele licence dobře upozornit na to, na které části se licence vztahuje a na které nikoli [viz. nezvýrazněné části].<br /><br /></p>
 
 <p>Vždy uvádím nejdříve odkaz na stránku a potom ze stránky cituji.<br /><br /></p>
 
@@ -222,10 +149,8 @@ garantováno zveřejněním mojí práce pod licencí CC Uveďte původ
 </div>
 
 <div class="citace">
-  <p>„May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?<br /><br /></p>
-
-  <p>Yes, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. <span class="highlighted-text-blue">The CC license only applies to the rights you have in the work. </span> For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by others, see our page about marking third party content. Read more considerations for licensors here.“<br /><br /></p>
-
+  <p>„May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?<br /><br />
+Yes, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. <span class="highlighted-text-blue">The CC license only applies to the rights you have in the work. </span> For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by others, see our page about marking third party content. Read more considerations for licensors here.“<br /><br /></p>
 </div>
 
 <div class="do-not-break-out">
@@ -342,7 +267,7 @@ V každém souboru s titulky je Poslední titulek, ve kterém informuji potencio
 <br /><br /></p>
     </li>
     <li>
-      <p>nemusí mít souhlas autora českých titulků. V případě použití titulků je nutné pouze uvést jméno autora a - pokud je známý - odkaz na dílo.</p>
+      <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.</p>
     </li>
   </ul>
 </div>
@@ -389,7 +314,7 @@ Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která
 <br /><br /></p>
     </li>
     <li>
-      <p>nemusí mít souhlas autora českých titulků
+      <p>nemusí mít souhlas autora českých titulků, který je podle předlohy vytvořil. V případě použití titulků je nutné pouze uvést jeho jméno.
 <br /><br /></p>
     </li>
   </ul>
@@ -408,7 +333,7 @@ Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která
 </ul>
 
 <p><span class="ircle underline"> Třetí krok </span><br />
-Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem přidal tento text.</p>
+Do popisku všech tří videí, které jsou na mém YouTube kanálu a ke kterým jsem vytvořil české titulky, jsem přidal tento text.</p>
 
 <div class="citace">
   <h5 style="text-align:left">//LICENCE K ČESKÝM TITULKŮM</h5>
@@ -420,13 +345,13 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 </div>
 
-<p>Nedal jsem tedy do popisku videí celý text s informací o možnosti titulky použít. Zdálo se mi to už zbytečné. Určitě bych to ale udělat mohl.</p>
+<p>Nedal jsem tedy do popisku k videím celý text s informací o možnosti titulky použít. Zdálo se mi to už zbytečné. Určitě bych to ale udělat mohl.</p>
 
 <div id="anchor-otazka-na-zaver">
   <h3 id="otzka-na-zvr">OTÁZKA NA ZÁVĚR</h3>
 </div>
 
-<p>Můžu si teď myslet, že je práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?<br /><br /></p>
+<p>Můžu si teď myslet, že je moje práce, kterou jsem vložil do tvorby titulků, licencována za podmínek CC Uveďte původ 4.0 Mezinárodní?<br /><br /></p>
 
 <p>Jestli je někde v mých úvahách chyba, určitě budu rád za vaši zpětnou vazbu, radu nebo nějaký tip.<br /><br /></p>
 
@@ -434,15 +359,4 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET

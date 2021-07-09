@@ -1,7 +1,7 @@
 <div style="">Dobrý den,</div><br>
 
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
-týká mé činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.
+týká mojí činnosti a CC licencí. Za jakoukoli odpověď budu vděčný.
 
 <div id="anchor-povoleni" markdown="1">
 ### POVOLENÍ
@@ -20,14 +20,14 @@ používat videa z jejich YouTube kanálu.<br><br>
 [https://www.youtube.com/user/BuddhistSocietyWA](https://www.youtube.com/user/BuddhistSocietyWA)<br><br>
 </div>
 
-To znamená, že můžu ta videa stáhnout, vytvořit k nim titulky nebo
+To znamená, že mám dovoleno ta videa stáhnout, vytvořit k nim titulky nebo
 české znění a smím je umístit na můj YouTube kanál PANDITA CZ.
 
 <div id="anchor-vytvorene-titulky" markdown="1">
 ### VYTVOŘENÉ TITULKY
 </div>
 
-Ke dnešnímu dni (28.5.2021) jsem vytvořil titulky k těmto videím:<br><br>
+Ke dnešnímu dni (8.7.2021) jsem vytvořil titulky k těmto videím:<br><br>
 
 <span class="margin-bottom-negative" >
 [Čtyři způsoby, jak se pustit](https://www.youtube.com/watch?v=pkH7Qick84E) - [Four Ways of Letting Go](https://www.youtube.com/watch?v=USC5MJVZLy8&t=824s)<br><br>
