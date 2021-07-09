@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"�Y<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -325,7 +252,7 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
 V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br /></p>
 
 <div class="citace">
-  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0. Mezinárodní.<br /><br /></p>
+  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
 
   <p>Odkaz na zkrácený text licence najdete na adrese:<br /></p>
 
@@ -338,11 +265,11 @@ V každém souboru s titulky je Poslední titulek, ve kterém informuji potencio
 
   <ul>
     <li>
-      <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
-<br /></p>
+      <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
+<br /><br /></p>
     </li>
     <li>
-      <p>nemusí mít souhlas autora českých titulků.</p>
+      <p>nemusí mít souhlas autora českých titulků. V případě použití titulků je nutné pouze uvést jméno autora a - pokud je známý - odkaz na dílo.</p>
     </li>
   </ul>
 </div>
@@ -350,7 +277,7 @@ V každém souboru s titulky je Poslední titulek, ve kterém informuji potencio
 <p>Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: <a href="https://www.youtube.com/watch?v=pkH7Qick84E&amp;t=3331s">Čtyři způsoby, jak se pustit, (55:31)</a>; <a href="https://www.youtube.com/watch?v=VCR0GOzAKoE#t=58m20s">Učíme se být v klidu sami se sebou, (58:12)</a>; <a href="https://www.youtube.com/watch?v=W52r-greBg0#t=7m8s">Inteligence není moudrost (07:08)</a>.
 <br /><br /></p>
 
-<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM, která je na google disku,</a> který je veřejně dostupný i prostřednictvím úvodní stránky k tomuto webu.</p>
+<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM, která je na google disku,</a> který je veřejně dostupný prostřednictvím úvodní stránky k tomuto webu.</p>
 
 <div class="citace">
   <h5>Měkké a tvrdé titulky</h5>
@@ -363,7 +290,7 @@ V každém souboru s titulky je Poslední titulek, ve kterém informuji potencio
 <p><br /></p>
 
 <p><span class="underline"> Druhý krok </span><br />
-Do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM,</a>, jsem nahrál soubor <i>Oprávnění k použití titulků</i>. I v tomto souboru jsou informace o možnosti titulky použít za podmínek CC licence.<br /></p>
+Do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM,</a>, jsem nahrál soubor <i>Oprávnění k použití titulků</i>, ve kterém jsou informace o možnosti titulky použít za podmínek CC licence.<br /></p>
 
 <div class="citace">
   <h5> Oprávnění k použití za podmínek licence
@@ -371,8 +298,8 @@ CC Uveďte původ 4.0. Mezinárodní</h5>
 
   <p>V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
 
-  <p>Autorem těchto titulků je Dalibor Pavlík. Jeho práce na jejich tvorbě je licencována za podmínek licence
-CC Uveďtě původ 4.0 Mezinárodní.<br /><br /></p>
+  <p>Autorem těchto titulků je Dalibor Pavlík. Práce na jejich tvorbě je licencována za podmínek licence
+CC Uveďtě původ 4.0. Mezinárodní.<br /><br /></p>
 
   <p>Odkaz na zkrácený text licence najdete na adrese:</p>
 
@@ -380,14 +307,18 @@ CC Uveďtě původ 4.0 Mezinárodní.<br /><br /></p>
     <p><a href="https://creativecommons.org/licenses/by/4.0/deed.cs">https://creativecommons.org/licenses/by/4.0/deed.cs</a></p>
   </div>
 
-  <p><br />
+  <p><br /><br />
 Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
 
   <ul>
-    <li>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
-<br /></li>
-    <li>nemusí mít souhlas autora českých titulků.
-<br /><br /></li>
+    <li>
+      <p>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie, která je vlastníkem předlohy, podle které byly tyto titulky vytvořeny.
+<br /><br /></p>
+    </li>
+    <li>
+      <p>nemusí mít souhlas autora českých titulků
+<br /><br /></p>
+    </li>
   </ul>
 
   <p>Tato licence se vztahuje ke všem souborům, které jsou v této složce.</p>
@@ -408,7 +339,7 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 <div class="citace">
   <h5 style="text-align:left">//LICENCE K ČESKÝM TITULKŮM</h5>
-  <p>Podrobné informace o možnosti použít české titulky k tomuto videu najdete na adrese:</p>
+  <p>Podrobné informace o možnosti použít české titulky k tomuto videu najdete na adrese:<br /><br /></p>
 
   <div class="do-not-break-out">
     <p><a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA</a></p>
@@ -430,15 +361,4 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET

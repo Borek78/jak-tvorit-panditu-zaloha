@@ -31,4 +31,4 @@ Yes, but it is important to prominently mark any third party material you incorp
 
 V následujích částech tohoto textu budu předpokládat, že můžu aplikovat CC licenci jen na práci, kterou jsem vložil do tvorby titulků.<br><br>
 
-Pokud tedy můžu publikovat pod licencí CC jen práci, kterou jsem vložil do tvorby titulků, jak to můžu udělat? Jakým způsobem můžu upozornit potencionální uživatele, že za podmínek licence CC není zveřejněn celý text českých titulků ale pouze práce, kterou jsem vložil do jejich tvorby?<br><br>
+Pokud tedy můžu aplikovat CC licenci jen práci, kterou jsem vložil do tvorby titulků, jak to můžu udělat? Jakým způsobem můžu upozornit potencionální uživatele, že za podmínek licence CC není zveřejněn celý text českých titulků ale pouze práce, kterou jsem vložil do jejich tvorby?<br><br>
