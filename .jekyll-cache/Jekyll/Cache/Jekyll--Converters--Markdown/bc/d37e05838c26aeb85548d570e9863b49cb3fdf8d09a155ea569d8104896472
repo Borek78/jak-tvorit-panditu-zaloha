@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"6Z<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -142,7 +69,7 @@ yourself</a>
   <h3 id="autorsk-zkon">AUTORSKÝ ZÁKON</h3>
 </div>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/2000-121">Autorský zákon (zákon č. 121/2000 Sb.)</a> chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
+<p><a href="https://www.zakonyprolidi.cz/cs/2000-121">Autorský zákon (zákon č. 121/2000)</a> chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
 nechat tento vzkaz:</p>
 
 <div class="citace">
@@ -165,8 +92,8 @@ V souvislosti s licencemi Creative Commons se lze setkat ještě
 se dvěma nástroji. Konkrétně se jedná o „licenci“ CC0 (CC Zero) a tzv.
 Public Domain Mark. <br /><br />
 
-• CC0 je zamýšlen jako nástroj, kterým se  autor vzdává veškerých
-práv ke  konkrétnímu dílu. V České republice by ovšem takové právní
+• CC0 je zamýšlen jako nástroj, kterým se autor vzdává veškerých
+práv ke konkrétnímu dílu. V České republice by ovšem takové právní
 jednání nebylo platné, neboť není právem dovolené. CC Zero na tyto
 situace ovšem pamatuje a v případě nedovolenosti takového jednání
 stanovuje, že se jedná o maximální možnou právem dovolenou licenci
@@ -252,7 +179,7 @@ garantováno zveřejněním mojí práce za podmínek licence CC Uveďte původ
 <p>Každé dílo, na které je aplikována licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. Například v <a href="https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana#footer-info-copyright">patičce na stránkách wikipedie</a> je tato velmi stručná poznámka (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):</p>
 
 <div class="citace">
-  <p>Text je dostupný pod licencí <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Creative Commons Uveďte autora – Zachovejte licenci</a> případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/cs">Podmínky užití.</a></p>
+  <p>Text je dostupný pod licencí <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Creative Commons Uveďte autora – Zachovejte licenci</a> případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Podmínky užití.</a></p>
 </div>
 
 <p>I já bych měl k souborům s titulky připojit poznámku, ve které budu potencionální uživatele informovat o tom, za jakých podmínek můžou moji práci použít. Ale jak by taková poznámka měla vypadat? O tom jsem se více dozvěděl na následujích stránkách. Jejich relevantní části opět cituji.<br /><br /></p>
@@ -361,7 +288,7 @@ Do každého souboru s titulky jsem vložil Poslední titulek, ve kterém inform
   <p>Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
 <br /><br /></p>
 
-  <p>Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: videa s tvrdými titulky jsem vytvářel před několika měsíci a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
+  <p>Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: videa s tvrdými titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
 
 </div>
 <p><br /></p>
@@ -434,15 +361,4 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET

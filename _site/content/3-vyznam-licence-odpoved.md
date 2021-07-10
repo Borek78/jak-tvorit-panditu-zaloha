@@ -2,7 +2,7 @@
 ### ODPOVĚĎ
 </div>
 
-Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a na které nikoli [viz. nezvýrazněné části].<br><br>
+Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a za jakých podmínek můžou moji práci použít. [viz. nezvýrazněné části].<br><br>
 
 Vždy uvádím nejdříve odkaz na stránku a potom ze stránky cituji.<br><br>
 

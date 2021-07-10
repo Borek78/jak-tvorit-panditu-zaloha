@@ -5,10 +5,12 @@
 Nyní se pokusím využít všechno, co jsem se dosud o CC licencích dočetl. Udělám několik kroků, o kterých si myslím, že by mohly vést k tomu, že moji práci na titulcích zveřejním za podmínek licence CC Uveďte původ 4.0 Mezinárodní. <br><br><br>
 
 <span class="ircle underline"> První krok </span><br>
-V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br>
+Do každého souboru s titulky jsem vložil Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br>
 
 <div class="citace" markdown="1" >
-Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0. Mezinárodní.<br><br>
+Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie.<br><br>
+
+Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0. Mezinárodní.<br><br>
 
 Odkaz na zkrácený text licence najdete na adrese:<br>
 
@@ -17,25 +19,25 @@ Odkaz na zkrácený text licence najdete na adrese:<br>
 </div>
 <br>
 
-Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br><br>
+Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, a to na YouTube nebo jiným způsobem, tak:<br>
 
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
 
-- nemusí mít souhlas autora českých titulků.
+- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován zveřejněním jeho práce za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
 </div>
 
 Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: [Čtyři způsoby, jak se pustit, (55:31)](https://www.youtube.com/watch?v=pkH7Qick84E&t=3331s); [Učíme se být v klidu sami se sebou, (58:12)](https://www.youtube.com/watch?v=VCR0GOzAKoE#t=58m20s); [Inteligence není moudrost (07:08)](https://www.youtube.com/watch?v=W52r-greBg0#t=7m8s).
 <br><br>
 
-Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál do složky [DALIBOR PAVLIK > AJAHN BRAHM, která je na google disku,](https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) který je veřejně dostupný i prostřednictvím úvodní stránky k tomuto webu.
+Zároveň jsem všechny tři soubory s titulky nahrál do složky [DALIBOR PAVLIK > AJAHN BRAHM, která je na google disku,](https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) který je veřejně dostupný i prostřednictvím úvodní stránky k tomuto webu.
 
 <div class="citace" markdown="1" >
 <h5>Měkké a tvrdé titulky</h5>
  Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
 <br><br>
 
-Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.
+Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: videa s tvrdými titulky jsem vytvářel před několika měsíci a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.
 
 </div><br>
 
@@ -58,11 +60,11 @@ Odkaz na zkrácený text licence najdete na adrese:
 </div>
 
 <br>
-Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br><br>
+Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, a to na YouTube nebo jiným způsobem, tak:<br>
 
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
-- nemusí mít souhlas autora českých titulků.
+- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován zveřejněním jeho práce za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
   <br><br>
 
 Tato licence se vztahuje ke všem souborům, které jsou v této složce.

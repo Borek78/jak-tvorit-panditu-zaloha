@@ -46,7 +46,7 @@ yourself](https://www.youtube.com/watch?v=eu0RtEG6V4A&t=3020s)
 ### AUTORSKÝ ZÁKON
 </div>
 
-[Autorský zákon (zákon č. 121/2000)](https://www.zakonyprolidi.cz/cs/2000-121) chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
+[Autorský zákon (zákon č. 121/2000 Sb.)](https://www.zakonyprolidi.cz/cs/2000-121) chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
 nechat tento vzkaz:
 
 <div class="citace">
@@ -58,7 +58,7 @@ povolení moji práci použít.“
 Jak to ale můžu udělat? <br><br>
 
 Jako ideální se mi zdálo použít ke zveřejnění mojí práce [licenci CC0
-1.0. Univerzální](https://creativecommons.org/publicdomain/zero/1.0/deed.cs) Zveřejněním mojí práce za podmínek této licence bych se jako
+1.0. Univerzální](https://creativecommons.org/publicdomain/zero/1.0/deed.cs). Zveřejněním mojí práce za podmínek této licence bych se jako
 autor vzdal všech práv, která souvisí s prací, kterou jsem vložil do
 tvorby titulků. To ale autorský zákon neumožnuje [ [§11- (4)](https://www.zakonyprolidi.cz/cs/2000-121#p11-4), [§26 - (1)](https://www.zakonyprolidi.cz/cs/2000-121#p26-1) ].<br><br>
 

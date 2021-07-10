@@ -2,15 +2,15 @@
 ### POZNÁMKA PRO UŽIVATELE
 </div>
 
-Každé dílo, na které je aplikována licencí CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. V případě wikipedie je tato poznámka velmi stručná (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):
+Každé dílo, na které je aplikována licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. Například v [patičce na stránkách wikipedie](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana#footer-info-copyright) je tato velmi stručná poznámka (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):
 
 <div class="citace" markdown="1">
-Text je dostupný pod licencí [Creative Commons Uveďte autora – Zachovejte licenci](https://creativecommons.org/licenses/by-sa/4.0/deed.cs) případně za dalších podmínek. Podrobnosti naleznete na stránce [Podmínky užití.](https://creativecommons.org/licenses/by-sa/4.0/deed.cs)
+Text je dostupný pod licencí [Creative Commons Uveďte autora – Zachovejte licenci](https://creativecommons.org/licenses/by-sa/4.0/deed.cs) případně za dalších podmínek. Podrobnosti naleznete na stránce [Podmínky užití.](https://foundation.wikimedia.org/wiki/Terms_of_Use/cs)
 </div>
 
 I já bych měl k souborům s titulky připojit poznámku, ve které budu potencionální uživatele informovat o tom, za jakých podmínek můžou moji práci použít. Ale jak by taková poznámka měla vypadat? O tom jsem se více dozvěděl na následujích stránkách. Jejich relevantní části opět cituji.<br><br>
 
-Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jakou poznámku si napíše. I z těchto pasáží je ale zřetelný důraz na to, že potencionální uživatel mojí práce by měl být dobře informován o tom, na jakou část titulků se CC licence vztahuje a za jakých podmínek moji práci může použít.
+Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jakou poznámku si napíše. I z těchto pasáží je ale zřetelný důraz na to, že potencionální uživatel mojí práce by měl být dobře informován o tom, za jakých podmínek moji práci může použít.
 <br><br>
 
 <div class="do-not-break-out" markdown="1">
@@ -41,7 +41,9 @@ As a best practice, licensors should give clear and effective notices. Notice ma
 There is no one, right way to give notice, and different situations may require more or less complicated notices and marking. The following tips may be helpful, however, in designing a clear and informative notice.
 </div>
 
+<div id="anchor-youtube" markdown="1">
 ### YOUTUBE
+</div>
 
 Titulky, které jsem vytvořil a chtěl bych na ně aplikovat CC licenci, používám na YouTube. Můžu informaci o tom, že na titulky byla aplikována CC licence, dát k dispozici i na YouTube?<br><br>
 

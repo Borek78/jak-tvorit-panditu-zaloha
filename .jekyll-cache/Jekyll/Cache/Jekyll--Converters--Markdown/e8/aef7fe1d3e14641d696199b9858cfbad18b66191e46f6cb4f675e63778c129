@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"@Y<div id="intro-content-button-wrapper">
   <button id="cc-email-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -142,7 +69,7 @@ yourself</a>
   <h3 id="autorsk-zkon">AUTORSKÝ ZÁKON</h3>
 </div>
 
-<p><a href="https://www.zakonyprolidi.cz/cs/2000-121">Autorský zákon (zákon č. 121/2000 Sb.)</a> chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
+<p><a href="https://www.zakonyprolidi.cz/cs/2000-121">Autorský zákon (zákon č. 121/2000)</a> chrání moji práci, kterou jsem odvedl na těchto titulcích. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
 nechat tento vzkaz:</p>
 
 <div class="citace">
@@ -154,7 +81,7 @@ povolení moji práci použít.“
 <p>Jak to ale můžu udělat? <br /><br /></p>
 
 <p>Jako ideální se mi zdálo použít ke zveřejnění mojí práce <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">licenci CC0
-1.0. Univerzální</a>. Zveřejněním mojí práce za podmínek této licence bych se jako
+1.0. Univerzální</a> Zveřejněním mojí práce za podmínek této licence bych se jako
 autor vzdal všech práv, která souvisí s prací, kterou jsem vložil do
 tvorby titulků. To ale autorský zákon neumožnuje [ <a href="https://www.zakonyprolidi.cz/cs/2000-121#p11-4">§11- (4)</a>, <a href="https://www.zakonyprolidi.cz/cs/2000-121#p26-1">§26 - (1)</a> ].<br /><br /></p>
 
@@ -165,8 +92,8 @@ V souvislosti s licencemi Creative Commons se lze setkat ještě
 se dvěma nástroji. Konkrétně se jedná o „licenci“ CC0 (CC Zero) a tzv.
 Public Domain Mark. <br /><br />
 
-• CC0 je zamýšlen jako nástroj, kterým se  autor vzdává veškerých
-práv ke  konkrétnímu dílu. V České republice by ovšem takové právní
+• CC0 je zamýšlen jako nástroj, kterým se autor vzdává veškerých
+práv ke konkrétnímu dílu. V České republice by ovšem takové právní
 jednání nebylo platné, neboť není právem dovolené. CC Zero na tyto
 situace ovšem pamatuje a v případě nedovolenosti takového jednání
 stanovuje, že se jedná o maximální možnou právem dovolenou licenci
@@ -183,7 +110,7 @@ str.55<br />
 
 </div>
 
-<p>Proto budu pro moji činnost používat licenci CC „Uveďte autora“ 4.0.
+<p>Budu tedy pro moji činnost používat licenci CC „Uveďte autora“ 4.0.
 Název této licence je překládán i jako <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC Uveďtě původ 4.0.</a></p>
 
 <div id="anchor-prekazka">
@@ -194,7 +121,7 @@ Název této licence je překládán i jako <a href="https://creativecommons.org
 
 <p>Dá se to nějak vyřešit?<br /><br /></p>
 
-<p>Mohl bych publikovat pod licencí CC Uveďte původ 4.0 jenom práci, kterou jsem na titulcích odvedl?</p>
+<p>Mohl bych publikovat pod licencí CC Uveďte původ 4.0. jenom práci, kterou jsem na titulcích odvedl?</p>
 
 <div id="anchor-dobry-dusledek">
   <h3 id="dobr-dsledek">DOBRÝ DŮSLEDEK</h3>
@@ -206,14 +133,14 @@ moji práci na titulcích, mělo by to jeden velmi dobrý důsledek.<br /><br />
 <p>V budoucnosti by v České republice mohl dostat povolení požívat
 videa BSZA někdo další. Pokud by se tak stalo, nemuseli by se mě
 držitelé tohoto povolení ptát i na moje povolení. Moje povolení by bylo
-garantováno zveřejněním mojí práce za podmínek licence CC Uveďte původ
+garantováno zveřejněním mojí práce pod licencí CC Uveďte původ
 4.0.</p>
 
 <div id="anchor-odpoved">
   <h3 id="odpov">ODPOVĚĎ</h3>
 </div>
 
-<p>Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a za jakých podmínek můžou moji práci použít. [viz. nezvýrazněné části].<br /><br /></p>
+<p>Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a na které nikoli [viz. nezvýrazněné části].<br /><br /></p>
 
 <p>Vždy uvádím nejdříve odkaz na stránku a potom ze stránky cituji.<br /><br /></p>
 
@@ -249,15 +176,15 @@ garantováno zveřejněním mojí práce za podmínek licence CC Uveďte původ
   <h3 id="poznmka-pro-uivatele">POZNÁMKA PRO UŽIVATELE</h3>
 </div>
 
-<p>Každé dílo, na které je aplikována licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. Například v <a href="https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana#footer-info-copyright">patičce na stránkách wikipedie</a> je tato velmi stručná poznámka (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):</p>
+<p>Každé dílo, na které je aplikována licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. V případě wikipedie je tato poznámka velmi stručná (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):</p>
 
 <div class="citace">
-  <p>Text je dostupný pod licencí <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Creative Commons Uveďte autora – Zachovejte licenci</a> případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/cs">Podmínky užití.</a></p>
+  <p>Text je dostupný pod licencí <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Creative Commons Uveďte autora – Zachovejte licenci</a> případně za dalších podmínek. Podrobnosti naleznete na stránce <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs">Podmínky užití.</a></p>
 </div>
 
 <p>I já bych měl k souborům s titulky připojit poznámku, ve které budu potencionální uživatele informovat o tom, za jakých podmínek můžou moji práci použít. Ale jak by taková poznámka měla vypadat? O tom jsem se více dozvěděl na následujích stránkách. Jejich relevantní části opět cituji.<br /><br /></p>
 
-<p>Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jakou poznámku si napíše. I z těchto pasáží je ale zřetelný důraz na to, že potencionální uživatel mojí práce by měl být dobře informován o tom, za jakých podmínek moji práci může použít.
+<p>Je z nich zřetelné, že pro tuto poznámku neexistují nějaká striktní pravidla. Je opravdu na každém autorovi, jakou poznámku si napíše. I z těchto pasáží je ale zřetelný důraz na to, že potencionální uživatel mojí práce by měl být dobře informován o tom, na jakou část titulků se CC licence vztahuje a za jakých podmínek moji práci může použít.
 <br /><br /></p>
 
 <div class="do-not-break-out">
@@ -324,12 +251,10 @@ CC licencích je možné vkládat i do popisků každého videa na YouTube.<br /
 <p>Nyní se pokusím využít všechno, co jsem se dosud o CC licencích dočetl. Udělám několik kroků, o kterých si myslím, že by mohly vést k tomu, že moji práci na titulcích zveřejním za podmínek licence CC Uveďte původ 4.0 Mezinárodní. <br /><br /><br /></p>
 
 <p><span class="ircle underline"> První krok </span><br />
-Do každého souboru s titulky jsem vložil Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br /></p>
+V každém souboru s titulky je Poslední titulek, ve kterém informuji potencionální uživatele mojí práce (nabyvatele licence) o tom, za jakých podmínek můžou titulky použít. Text tohoto Posledního titulku je vždy stejný a zní takto. <br /></p>
 
 <div class="citace">
-  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie.<br /><br /></p>
-
-  <p>Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0. Mezinárodní.<br /><br /></p>
+  <p>Video, ke kterému byly vytvořeny tyto české titulky, je ve vlastnictví Buddhistické společnosti Západní Austrálie. Autorem těchto českých titulků je Dalibor Pavlík. Jeho práce na tvorbě titulků je licencována za podmínek licence CC Uveďte původ 4.0. Mezinárodní.<br /><br /></p>
 
   <p>Odkaz na zkrácený text licence najdete na adrese:<br /></p>
 
@@ -338,7 +263,7 @@ Do každého souboru s titulky jsem vložil Poslední titulek, ve kterém inform
   </div>
   <p><br /></p>
 
-  <p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, a to na YouTube nebo jiným způsobem, tak:<br /></p>
+  <p>Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, a to na YouTube nebo jiným způsobem, tak:<br /><br /></p>
 
   <ul>
     <li>
@@ -354,14 +279,14 @@ Do každého souboru s titulky jsem vložil Poslední titulek, ve kterém inform
 <p>Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: <a href="https://www.youtube.com/watch?v=pkH7Qick84E&amp;t=3331s">Čtyři způsoby, jak se pustit, (55:31)</a>; <a href="https://www.youtube.com/watch?v=VCR0GOzAKoE#t=58m20s">Učíme se být v klidu sami se sebou, (58:12)</a>; <a href="https://www.youtube.com/watch?v=W52r-greBg0#t=7m8s">Inteligence není moudrost (07:08)</a>.
 <br /><br /></p>
 
-<p>Zároveň jsem všechny tři soubory s titulky nahrál do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM, která je na google disku,</a> který je veřejně dostupný i prostřednictvím úvodní stránky k tomuto webu.</p>
+<p>Zároveň jsem všechny tři soubory s titulky – a to i s Posledním titulkem – nahrál do složky <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">DALIBOR PAVLIK &gt; AJAHN BRAHM, která je na google disku,</a> který je veřejně dostupný i prostřednictvím úvodní stránky k tomuto webu.</p>
 
 <div class="citace">
   <h5>Měkké a tvrdé titulky</h5>
   <p>Titulkům, které lze vypnout a zapnout se říká „měkké“ titulky. Titůlkům, které jsou do videa vytištěny a nejde je vypnout, se říká „tvrdé“ titulky.
 <br /><br /></p>
 
-  <p>Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: videa s tvrdými titulky jsem vytvářel před několika měsíci a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
+  <p>Součástí všech tří videí jsou jak „měkké“ titulky, tak „tvrdé“ titulky. Poslední titulek není součástí „tvrdých“ titulků: tvrdé titulky jsem vytvářel před několika měsíc a v té době jsem ještě o použití Posledního titulku neuvažoval. U dalších videí bych chtěl Poslední titulek tisknout do všech videí.</p>
 
 </div>
 <p><br /></p>
@@ -385,12 +310,12 @@ CC Uveďtě původ 4.0 Mezinárodní.<br /><br /></p>
   </div>
 
   <p><br />
-Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, a to na YouTube nebo jiným způsobem, tak:<br /></p>
+Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. Z toho vyplývá, že pokud někdo bude chtít tyto titulky použít, tak:<br /><br /></p>
 
   <ul>
     <li>k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
 <br /></li>
-    <li>nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován zveřejněním jeho práce za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
+    <li>nemusí mít souhlas autora českých titulků.
 <br /><br /></li>
   </ul>
 
@@ -434,15 +359,4 @@ Do popisku všech tří videí, ke kterým jsem vytvořil české titulky, jsem 
 
 <script src="./js/script-cc-email.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET
