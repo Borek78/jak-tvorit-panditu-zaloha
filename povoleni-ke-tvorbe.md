@@ -11,7 +11,7 @@ K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br>
 
 Od Bhante Sujívy a od italského meditačního centra [Centro Meditazione di Pian Dei Ciliegi](https://www.piandeiciliegi.it/en/) mám povolení používat videa Bhante Sujívy. Součástí tohoto povolení je i používat titulky, které k těmto videím vytváří Hanka Haladová.<br><br>
 
-V srpnu 2020 se konal týdenní meditační kurz meditace mettá a vipassaná s [malajským učitelem meditace Visu Teoh.](https://visuteoh.net/) Souhlas s použitím nahrávek z tohoto kurzu mám jak od Visu Teoh, tak o od kolektivu, který se na jejich pořízení podílel: od Ládi Krále, Jirky Pavlíka a Jůlie Honyšové.<br><br>
+V srpnu 2020 se konal týdenní meditační kurz meditace mettá a vipassaná s [malajským učitelem meditace Visu Teoh.](https://visuteoh.net/) Organizátoři vše pečlivě zaznamenali a od Visu Teoh mám povolení nahrávky z tohoto kurzu používat.<br><br>
 
 Od Buddhistické společnosti Západní Austrálie mám povolení používat videa, která jsou k dispozici na [YouTube kanálu Buddhist Society of Western Australie.](https://www.youtube.com/user/BuddhistSocietyWA)<br><br>
 

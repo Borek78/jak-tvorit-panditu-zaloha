@@ -1,77 +1,4 @@
-<!DOCTYPE html>
-<html lang="en"><!-- prettier-ignore -->
-
-<head>
-
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-  <link rel="stylesheet" href="css/content-menu-style.css">
-  <link rel="stylesheet" href="css/template-style.css">
-  <link rel="stylesheet" href="css/text-area-style.css">
-  <link rel="stylesheet" href="css/uvod-style.css">
-  <link rel="stylesheet" href="css/responsive-style.css">
-  <link rel="stylesheet" href="css/responsive-banner.css">
-  <link rel="stylesheet" href="css/pages-style.css">
-  
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-</head>
-<body><header>
-  <section id="menu" class="menu-is-visible">
-    <nav id="inside-menu">
-      <a class="menu-item" href="blog.html">BLOG</a>
-      <a class="menu-item" href="index.html">ÚVOD</a>
-
-      <div id="icon-close" class="hide-icon-close">
-        <span class="material-icons material-icons-style">close</span>
-      </div>
-
-      <div id="icon-menu" class="show-icon-menu">
-        <span class="material-icons material-icons-style">menu</span>
-      </div>
-
-      <a
-        id="uplne-levy"
-        href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew"
-        >Pandita</a
-      >
-    </nav>
-
-    <!-- Mobile menu - start -->
-    <nav id="mobile-menu" class="hide-mobile-menu">
-      <a class="mobile-menu-item" href="index.html">Úvod</a><br /><br />
-      <a class="mobile-menu-item" href="blog.html">Blog</a><br /><br />
-    </nav>
-    <!-- Mobile menu - end -->
-  </section>
-
-  <section id="banner">
-    <div id="napis">
-      <div id="text-napisu">Jak tvořit panditu</div>
-    </div>
-
-    <div id="web-under-construction">
-      Obsah tohoto webu zatím hledá své konečné znění.
-    </div>
-
-    <div id="mobile-web-under-construction">Web je ve výstavbě.</div>
-  </section>
-</header>
-<!--Content--> 
-    <main id="main">
-      <div id="page">
-        <div id="text-in-page">
-     
-        <p>
-      
-        <div id="intro-content-button-wrapper">
+I"'<div id="intro-content-button-wrapper">
   <button id="intro-content-button"><i class="fa fa-bars"></i> Obsah</button>
 </div>
 
@@ -106,7 +33,7 @@
 
 <p>Mým záměrem je publikovat na PANDITA CZ vzdělávací materiály o théravádovém buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br /><br /></p>
 
-<p>Inspiruje mě velmi úspěšný polský <a href="https://www.youtube.com/user/sasanaPL">YouTube kanál Sasana.pl</a>. Některá videa na tomto kanálu mají ke dni zveřejnění této stránky (8.7.2021) více než jeden milion zobrazení a celý kanál má více než 91 tisíc odběratelů.</p>
+<p>Inspiruje mě velmi velmi úspěšný polský <a href="https://www.youtube.com/user/sasanaPL">YouTube kanál Sasana.pl</a>. Některá videa na tomto kanálu mají ke dni zveřejnění této stránky (8.7.2021) více než jeden milion zobrazení a celý kanál má více než 91 tisíc odběratelů.</p>
 
 <div id="anchor-dulezita-otazka">
   <h3 id="dleit-otzka">Důležitá otázka</h3>
@@ -128,17 +55,17 @@
 
 <p>Řešením může být zřízení cloudového úložiště, na které by všichni dobrovolníci mohli ukládat svoje překlady. Stejně tak by bylo toto úložiště k dispozici i pro jakékoli zvukové stopy, které můžou vzniknout jak v profesionálních studiích, tak i v domácích podmínkách. Z tohoto úložiště by pak mohl práci všech dobrovlníků jednoduše zálohovat každý člen české buddhistické komunity. <br /><br /></p>
 
-<p>Vhodné cloudové úložiště pro tyto účely jsem nemusel hledat dlouho. Úplně postačí <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj?usp=sharing">obyčejný Google Disc, který mám k dispozici k jednomu z mých emailových účtu</a>. Do složky DALIBOR PAVLÍK &gt; AJAHN BRAHM na tomto google disku jsem již uložil titulky, které jsem vytvořil k videím Ajahna Brahma. Na tomto google disku jsou již také k dispozici nahrávky z meditačního kurzu s Visu Teoh. <br /><br /></p>
+<p>Vhodné cloudové úložiště pro tyto účely jsem nemusel hledat dlouho. Úplně postačí <a href="https://drive.google.com/drive/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj?usp=sharing">obyčejný Google Disc, který mám k dispozici k jednomu z mých emailových účtu</a> Do složky DALIBOR PAVLÍK na tomto google disku jsem již uložil titulky k videím Ajahna Brahma. Stejně tak jsou na něm ke stažení k dispozici nahrávky z meditačního kurzu s Visu Teoh. <br /><br /></p>
 
-<p>Pro účely těchto stránek budu pro tento google disk používat název Dhamma depozitář a zkratku DD.<br /><br /></p>
+<p>Pro účely těchto stránek budu pro tento google disk používat název Dhamma Google Disk a zkratku DGD.<br /><br /></p>
 
-<p>Aby bylo opravdu jisté, že naše práce je dobře zálohováná a – jak doufám – uchovaná pro budoucí generace, poprosil jsem několik přátel Buddhova učení, aby založili svoji vlastní kopii DD a aby alespoň jednou za rok na svůj DD zkopírovali vše, co je k dispozici na tom mém DD. Jejich jména a odkazy na kopie DD najdete v příloze této stránky. Kromě toho si naši práci může kdokoli stáhnout a zálohovat na svém počitači či nějakém externím harddisku.</p>
+<p>Aby bylo opravdu jisté, že naše práce je dobře zálohováná a – jak doufám – uchovaná pro budoucí generace, poprosil jsem několik přátel Buddhova učení, aby založili svoji vlastní kopii DGD a aby alespoň jednou za rok na svůj DGD zkopírovali vše, co je k dispozici na tom mém DGD. Jejich jména a jejich kopie DGD najdete v příloze této stránky. Kromě toho si naši práci může kdokoli stáhnout a zálohovat na svém počitači či nějakém externím harddisku.</p>
 
 <div id="anchor-autorsky-zakon">
   <h3 id="autorsk-zkon">Autorský zákon</h3>
 </div>
 
-<p>Na DD jsem již nahrál titulky, které jsem vytvořil ke třem videím Ajahna Brahma. Možná bude v budoucnosti chtít moje titulky použít někdo další, a to na jiném YouTube kanálu nebo jiné platformě pro sdílení videí. <br /><br /></p>
+<p>Na DGD jsem již nahrál titulky, které jsem vytvořil ke třem videím Ajahna Brahma. Možná bude v budoucnoti chtít moje titulky použít někdo další, a to na jiném YouTube kanálu nebo jiné platformě pro sdílení videí. <br /><br /></p>
 
 <p>Pokud někdo bude o použití mojí práce uvažovat, může váhat a klást si následující otázku:</p>
 
@@ -152,7 +79,7 @@
 
 <p>Svých autorských práv se vzdát nemůžu, ale můžu udělit oprávnění (licenci) k používání těchto titulků. Toto oprávnění může být veřejné, neodvolatelné a nevýhradní. Pro udělování tohoto typu oprávnění se běžně používají <a href="https://www.creativecommons.cz/uvod/">tzv. CC licence.</a> Za podmínek jedné z těchto licencí je publikována i celá Wikipedie.<br /><br /></p>
 
-<p>Jednu z těchto CC licencí jsem si vybral a za podmínek této licence jsem zveřejnil i práci, kterou jsem vložil do tvorby titulků k videím Ajahna Brahma. Nyní může kdokoli tyto titulky použít za podmínek, kterou jsou popsány v souboru <a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">Oprávnění k použití titulků</a> Tento soubor najdete na DGD ve stejné složce jako soubory s titulky.<br /><br /></p>
+<p>Jednu z těchto CC licencí jsem si vybral a za podmínek této licence jsem zveřejnil i práci, kterou jsem vložil do tvorby titulků k videím Ajahna Brahma. Nyní může tyto titulky kdokoli použít za podmínek, kterou jsou v souboru <a href="https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA">Oprávnění k použití za podmínek licence CC Uveďte původ 4.0.</a> Tento soubor najdete na DGD ve stejné složce jako soubory s titulky.<br /><br /></p>
 
 <p>Použití <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">licence CC Uveďte původ 4.0.</a> má pro sdílení informací o Buddhově učení mnoho výhod. Více najdete v článku <a href="">Význam CC licencí pro předávání Buddhova učení</a>, který je k dispozici na stránce BLOG.</p>
 
@@ -200,15 +127,4 @@ email: cz.pandita@gmail.com<br />
 
 <script src="./js/script-index.js"></script>
 
-
-
-            
-       </p>
-       </div>
-      </div>
-    </main><footer></footer>
-<script src="./js/script.js"></script>
-   
-  </body>
-
-</html>
+:ET

@@ -79,8 +79,8 @@ div.do-not-break-out {
   -moz-text-fill-color: transparent;
 }
 
-/*remove the yellow pipali for this element*/
-#blog h3 {
+/*remove the yellow pipali for this element and change link styles*/
+#page #blog h3 {
   background-image: none;
   padding-left: 0px;
   font-family: "Raleway", sans-serif;
