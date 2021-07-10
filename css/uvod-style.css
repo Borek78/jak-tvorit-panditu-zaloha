@@ -3,10 +3,6 @@
   border-bottom: 0px dashed #499b00;
 }
 
-#page div.no-link-underline a:hover {
-  border-bottom: 3px dashed rgba(255, 60, 0, 0.945);
-}
-
 .pozdrav {
   margin-bottom: -40px;
 }
