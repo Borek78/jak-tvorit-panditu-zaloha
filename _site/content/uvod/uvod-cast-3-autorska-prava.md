@@ -16,16 +16,14 @@ Jak tedy tuto situaci řešit?<br><br>
 
 Svých autorských práv se vzdát nemůžu, ale můžu udělit oprávnění (licenci) k používání těchto titulků. Toto oprávnění může být veřejné, neodvolatelné a nevýhradní. Pro udělování tohoto typu oprávnění se běžně používají [tzv. CC licence.](https://www.creativecommons.cz/uvod/) Za podmínek jedné z těchto licencí je publikována i celá Wikipedie.<br><br>
 
-Jednu z těchto CC licencí jsem si vybral a za podmínek této licence jsem zveřejnil i práci, kterou jsem vložil do tvorby titulků k videím Ajahna Brahma. Nyní může kdokoli tyto titulky použít za podmínek, kterou jsou popsány v souboru [Oprávnění k použití titulků](https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA) Tento soubor najdete na DGD ve stejné složce jako soubory s titulky.<br><br>
-
-Použití [licence CC Uveďte původ 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs) má pro sdílení informací o Buddhově učení mnoho výhod. Více najdete v článku [Význam CC licencí pro předávání Buddhova učení](), který je k dispozici na stránce BLOG.
+Jednu z těchto CC licencí jsem si vybral a za podmínek této licence jsem zveřejnil i práci, kterou jsem vložil do tvorby titulků k videím Ajahna Brahma. Nyní může kdokoli tyto titulky použít za podmínek, kterou jsou popsány v souboru <i>Oprávnění k použití titulků.</i> Tento soubor najdete na [DD ve stejné složce jako soubory s titulky.](https://drive.google.com/drive/u/0/folders/16nYDrS2RoqtO4ttlh4zDNIQW5lw3t0vA)<br>
 
 <div id="anchor-kontakt" markdown="1" >
 ### Kontakt
 </div>
 
 Tento web i celý projekt PANDITA CZ je na samém počátku.
-Stále je velmi nejisté, jestli se mi podaří přispět k tomu, aby českému publiku byl k dispozici populární YouTube kanál o Buddhově učení. Uvítám proto jakékoli dobré nápady, tipy, rady či pomoc.<br><br>
+Stále je velmi nejisté, jestli se mi podaří přispět k tomu, aby českému publiku byl k dispozici populární YouTube kanál o Buddhově učení. Uvítám proto jakékoli dobré nápady, tipy, rady, upozornění či pomoc.<br><br>
 
 Nějakou dobu budu také ještě hledat optimální znění tohoto webu. Celý tento web je stále ve fázi testování.<br><br>
 
